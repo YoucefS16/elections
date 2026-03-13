@@ -1,0 +1,26 @@
+# docker-compose.yaml
+# changez le container_name et NEO4J_AUTH (login/password)
+
+services:
+    neo4j:
+        image: neo4j:latest
+        container_name: neo4j_elections
+        ports:
+            - "7474:7474"
+            - "7687:7687"
+        environment:
+            NEO4J_AUTH: admin/MdpNoSQL
+            NEO4J_PLUGINS: '["apoc", "graph-data-science"]'
+            NEO4J_dbms_security_procedures_unrestricted: "apoc.*,gds.*"
+            NEO4J_dbms_security_procedures_allowlist: "apoc.*,gds.*"
+        volumes:
+            - neo4j_data:/data
+
+volumes:
+    neo4j_data:
+
+# RAPPELS
+# Lancer le container  : docker compose up -d
+# Stopper le container : docker compose stop
+# Tout détruire        : docker compose down -v
+# Lancer le cyphershell: docker exec -it XXXXX cypher-shell -u neo4j -p password

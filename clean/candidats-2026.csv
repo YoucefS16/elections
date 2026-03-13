@@ -1,0 +1,815 @@
+Code département;Département;Code circonscription;Circonscription;Numéro de panneau;Libellé abrégé de liste;Libellé de la liste;Code nuance de liste;Nuance de liste;Tête de liste;Ordre;Sexe;Nom sur le bulletin de vote;Prénom sur le bulletin de vote;Nationalité;Code personnalité;CC
+31;Haute-Garonne;31001;Agassac;1;ANE SERGE;ANE SERGE;;;OUI;1;M;ANE;Serge;Française;;
+31;Haute-Garonne;31002;Aignes;1;Aignes pour tous;Aignes pour tous;;;OUI;1;F;ROUSSEL;Christelle;Française;;
+31;Haute-Garonne;31003;Aigrefeuille;1;POUR QUE REVIVE AIGREFEUILLE;POUR QUE REVIVE AIGREFEUILLE;;;OUI;1;F;OUCHENNE;Myriam;Française;;OUI
+31;Haute-Garonne;31003;Aigrefeuille;2;CONTINUONS ENSEMBLE, POUR L'AVENIR D'AIGREFEUILLE;CONTINUONS ENSEMBLE, POUR L'AVENIR D'AIGREFEUILLE;;;OUI;1;M;ANDRÉ;Christian;Française;;OUI
+31;Haute-Garonne;31004;Ayguesvives;1;Aygues'Avenir, ensemble pour notre village;Aygues'Avenir, ensemble pour notre village;;;OUI;1;M;PETITDIDIER;Victor;Française;;OUI
+31;Haute-Garonne;31005;Alan;1;ALAN CONTINUONS DE L'AVANT;ALAN CONTINUONS DE L'AVANT;;;OUI;1;M;BEAUSOR;Francis;Française;;
+31;Haute-Garonne;31005;Alan;2;ALAN : UNE EQUIPE POUR VOUS;ALAN : UNE EQUIPE POUR VOUS;;;OUI;1;M;GLAIS;Jonathan;Française;;
+31;Haute-Garonne;31006;Albiac;1;Tous pour Albiac;Tous pour Albiac;;;OUI;1;M;ROUGÉ;Cédric;Française;;
+31;Haute-Garonne;31007;Ambax;1;TOUS POUR AMBAX;TOUS POUR AMBAX;;;OUI;1;M;MIQUEL;Daniel;Française;;
+31;Haute-Garonne;31008;Anan;1;ENSEMBLE DANS LA CONTINUITE;ENSEMBLE DANS LA CONTINUITE;;;OUI;1;M;BRIOL;Laurent;Française;;
+31;Haute-Garonne;31009;Antichan-de-Frontignes;1;ANTICHAN POUR TOUS;ANTICHAN POUR TOUS;;;OUI;1;M;DUMAIL;Bernard;Française;;
+31;Haute-Garonne;31010;Antignac;1;ENSEMBLE POUR NOTRE VILLAGE;ENSEMBLE POUR NOTRE VILLAGE;;;OUI;1;M;NOUALS;Emilien;Française;;
+31;Haute-Garonne;31011;Arbas;1;VIVRE A ARBAS;VIVRE A ARBAS;;;OUI;1;M;CAZES;Jean;Française;;
+31;Haute-Garonne;31012;Arbon;1;POUR ARBON;POUR ARBON;;;OUI;1;M;RIFFET;Nicolas;Française;;
+31;Haute-Garonne;31013;Ardiège;1;A L'ECOUTE D'ARDIEGE;A L'ECOUTE D'ARDIEGE;;;OUI;1;M;LUCAS;Pascal;Française;;
+31;Haute-Garonne;31013;Ardiège;2;BATIR POUR DEMAIN ARDIEGE;BATIR POUR DEMAIN ARDIEGE;;;OUI;1;M;DUMANOIR;Serge;Française;;
+31;Haute-Garonne;31014;Arguenos;1;CONTINUONS ENSEMBLE POUR ARGUENOS;CONTINUONS ENSEMBLE POUR ARGUENOS;;;OUI;1;M;LABARRE;Cédric;Française;;
+31;Haute-Garonne;31015;Argut-Dessous;1;ARGUT-DESSOUS - REUSSIR ENSEMBLE;ARGUT-DESSOUS - REUSSIR ENSEMBLE;;;OUI;1;M;DULON;Gilles;Française;;
+31;Haute-Garonne;31017;Arlos;1;DU RENOUVEAU POUR ARLOS;DU RENOUVEAU POUR ARLOS;;;OUI;1;M;RIBIS;Jean-Marc;Française;;
+31;Haute-Garonne;31018;Arnaud-Guilhem;1;CONTINUER ENSEMBLE POUR L'AVENIR D'ARNAUD-GUILHEM;CONTINUER ENSEMBLE POUR L'AVENIR D'ARNAUD-GUILHEM;;;OUI;1;M;VIALATTE;Jean-Pierre;Française;;
+31;Haute-Garonne;31019;Artigue;1;UNIS POUR ARTIGUE SON PATRIMOINE ET SES TRADITIONS;UNIS POUR ARTIGUE SON PATRIMOINE ET SES TRADITIONS;;;OUI;1;M;SALABELLE;Hugues;Française;;
+31;Haute-Garonne;31020;Aspet;1;Aspet, Liens et Solidarité;Aspet, Liens et Solidarité;;;OUI;1;F;DELMAS;Myriam;Française;;
+31;Haute-Garonne;31020;Aspet;2;ENSEMBLE FAISONS VIVRE CE QUI NOUS UNIT;ENSEMBLE FAISONS VIVRE CE QUI NOUS UNIT;;;OUI;1;M;BARES;Patrick;Française;;
+31;Haute-Garonne;31020;Aspet;3;AMBITION POUR ASPET;AMBITION POUR ASPET;;;OUI;1;M;SORT;Franck;Française;;
+31;Haute-Garonne;31021;Aspret-Sarrat;1;ASPET-SARRAT, NOTRE VILLAGE;ASPET-SARRAT, NOTRE VILLAGE;;;OUI;1;F;NOGUES;Lydie;Française;;
+31;Haute-Garonne;31021;Aspret-Sarrat;2;ENSEMBLE POUR L'UNITE D'ASPRET SARRAT;ENSEMBLE POUR L'UNITE D'ASPRET SARRAT;;;OUI;1;M;GRAND;Jean-Paul;Française;;
+31;Haute-Garonne;31022;Aucamville;1;Aucamville, ensemble pour un avenir durable et solidaire;Aucamville, ensemble pour un avenir durable et solidaire;LDVG;Liste divers gauche;OUI;1;M;ANDRE;Gérard;Française;;OUI
+31;Haute-Garonne;31023;Aulon;1;AULON POUR VOUS, AULON AVEC VOUS;AULON POUR VOUS, AULON AVEC VOUS;;;OUI;1;M;BRANGE;Georges Bernard;Française;;
+31;Haute-Garonne;31023;Aulon;2;BIEN VIVRE A AULON LISTE MENEE PAR JEAN-CLAUDE DURROUX;BIEN VIVRE A AULON LISTE MENEE PAR JEAN-CLAUDE DURROUX;;;OUI;1;M;DURROUX;Jean-Claude;Française;;
+31;Haute-Garonne;31023;Aulon;3;ENSEMBLE POUR LE RENOUVEAU D'AULON ET MENGUE;ENSEMBLE POUR LE RENOUVEAU D'AULON ET MENGUE;;;OUI;1;F;JAUDON;Christine;Française;;
+31;Haute-Garonne;31024;Auragne;1;AURAGNE, PARTAGEONS NOTRE AVENIR;AURAGNE, PARTAGEONS NOTRE AVENIR;;;OUI;1;M;PACHER;René;Française;;
+31;Haute-Garonne;31024;Auragne;2;AURAGNE, SOLIDAIRE ET ENGAGEE POUR DEMAIN;AURAGNE, SOLIDAIRE ET ENGAGEE POUR DEMAIN;;;OUI;1;F;PICQ;Delphine;Française;;
+31;Haute-Garonne;31025;Aureville;1;Aureville le lien qui nous unit;Aureville le lien qui nous unit;;;OUI;1;M;ANDRÉ;Dominique;Française;;OUI
+31;Haute-Garonne;31026;Auriac-sur-Vendinelle;1;Auriac Avenir;Auriac Avenir;;;OUI;1;F;LELONG;Audrey;Française;;OUI
+31;Haute-Garonne;31026;Auriac-sur-Vendinelle;2;Un nouvel élan pour tous;Un nouvel élan pour tous;;;OUI;1;F;BRUN;Colette;Française;;OUI
+31;Haute-Garonne;31027;Auribail;1;ensemble à auribail;ensemble à auribail;;;OUI;1;M;MARQUIER;Serge;Française;;
+31;Haute-Garonne;31028;Aurignac;1;AURIGNAC, BIEN VIVRE ENSEMBLE;AURIGNAC, BIEN VIVRE ENSEMBLE;;;OUI;1;M;LOSEGO;Jean-Michel;Française;;OUI
+31;Haute-Garonne;31029;Aurin;1;Avec vous, agissons pour demain;Avec vous, agissons pour demain;;;OUI;1;F;VERCRUYSSE;Sandrine;Française;;
+31;Haute-Garonne;31030;Ausseing;1;TOUS POUR AUSSEING;TOUS POUR AUSSEING;;;OUI;1;F;ESTAQUE;Josiane;Française;;
+31;Haute-Garonne;31031;Ausson;1;TOUS ENSEMBLE POUR AUSSON;TOUS ENSEMBLE POUR AUSSON;;;OUI;1;M;BARRAU;Yves-Pierre;Française;;
+31;Haute-Garonne;31032;Aussonne;1;Pour le réveil d'AUSSONNE;Pour le réveil d'AUSSONNE;LDIV;Liste Divers;OUI;1;M;SAILLOUR;Guenahel;Française;;OUI
+31;Haute-Garonne;31032;Aussonne;2;2026 pacte citoyen;2026 pacte citoyen;LDVG;Liste divers gauche;OUI;1;M;BEUILLE;Michel;Française;;OUI
+31;Haute-Garonne;31033;Auterive;1;PATRICE SCAPIN EN AVANT AUTERIVE;PATRICE SCAPIN EN AVANT AUTERIVE;LDIV;Liste Divers;OUI;1;M;SCAPIN;Patrice;Française;;OUI
+31;Haute-Garonne;31033;Auterive;2;CAP SUR L'AVENIR 2026;CAP SUR L'AVENIR 2026;LRN;Liste du Rassemblement National;OUI;1;M;OLIVEIRA;Éric;Française;;OUI
+31;Haute-Garonne;31033;Auterive;3;AUTERIVE AUTREMENT AVEC VOUS, POUR VOUS;AUTERIVE AUTREMENT AVEC VOUS, POUR VOUS;LDVG;Liste divers gauche;OUI;1;F;HOAREAU;Cathy;Française;;OUI
+31;Haute-Garonne;31033;Auterive;4;lutte ouvrière-le camp des travailleurs;lutte ouvrière-le camp des travailleurs;LEXG;Liste d'extrême-gauche;OUI;1;M;CASANOVAS;Stéphane;Française;;OUI
+31;Haute-Garonne;31034;Auzas;1;ENSEMBLE POUR AUZAS;ENSEMBLE POUR AUZAS;;;OUI;1;F;BALLESTER;Arlette;Française;;
+31;Haute-Garonne;31035;Auzeville-Tolosane;1;AUZEVILLE TERRITOIRE D'AVENIR;AUZEVILLE TERRITOIRE D'AVENIR;LDVC;Liste divers centre;OUI;1;M;FASANO;David;Française;;OUI
+31;Haute-Garonne;31035;Auzeville-Tolosane;2;CULTIVONS AUZEVILLE ENSEMBLE;CULTIVONS AUZEVILLE ENSEMBLE;LDVG;Liste divers gauche;OUI;1;F;MELLAC;Alice;Française;;OUI
+31;Haute-Garonne;31036;Auzielle;1;Auzielle 2032 : ensemble préparons demain;Auzielle 2032 : ensemble préparons demain;;;OUI;1;M;BREMAND;Etienne;Française;;OUI
+31;Haute-Garonne;31037;Avignonet-Lauragais;1;AVIGNONET POUR TOUS;AVIGNONET POUR TOUS;;;OUI;1;F;MALMAISON;Patricia;Française;;OUI
+31;Haute-Garonne;31038;Azas;1;Azas Naturellement;Azas Naturellement;;;OUI;1;M;FAURÉ;Benoît;Française;;
+31;Haute-Garonne;31039;Bachas;1;ENSEMBLE POUR BACHAS;ENSEMBLE POUR BACHAS;;;OUI;1;F;CASTAING;Esther;Française;;
+31;Haute-Garonne;31040;Bachos;1;DEFENSE DES INTERET COMMUNAUX;DEFENSE DES INTERET COMMUNAUX;;;OUI;1;M;PELAYO;Gabriel;Française;;
+31;Haute-Garonne;31041;Bagiry;1;AGIR POUR BAGIRY;AGIR POUR BAGIRY;;;OUI;1;M;AUGUSTE;Alain;Française;;
+31;Haute-Garonne;31042;Bagnères-de-Luchon;1;LUCHON DEMAIN;LUCHON DEMAIN;;;OUI;1;M;AZÉMAR;Eric;Française;;OUI
+31;Haute-Garonne;31042;Bagnères-de-Luchon;2;AVEC SEBASTIEN DENARD POUR LUCHON;AVEC SEBASTIEN DENARD POUR LUCHON;;;OUI;1;M;DENARD;Sébastien;Française;;OUI
+31;Haute-Garonne;31042;Bagnères-de-Luchon;3;AVANCONS POUR LUCHON;AVANCONS POUR LUCHON;;;OUI;1;M;CAVAGNE;Patrick;Française;;OUI
+31;Haute-Garonne;31043;Balesta;1;VIVRE ENSEMBLE A BALESTA;VIVRE ENSEMBLE A BALESTA;;;OUI;1;M;DASQUE;Jean-Charles;Française;;
+31;Haute-Garonne;31044;Balma;1;Du coeur et de l'action pour Balma;Du coeur et de l'action pour Balma;LUC;Liste d'union au centre;OUI;1;M;TERRAIL-NOVES;Vincent;Française;;OUI
+31;Haute-Garonne;31044;Balma;2;Balma avec vous;Balma avec vous;LDVG;Liste divers gauche;OUI;1;M;ROBIC;Jean François;Française;;OUI
+31;Haute-Garonne;31045;Barbazan;1;ENSEMBLE, FAISONS VIVRE BARBAZAN;ENSEMBLE, FAISONS VIVRE BARBAZAN;;;OUI;1;F;STRADERE;Michèle;Française;;
+31;Haute-Garonne;31046;Baren;1;BIEN VIVRE A BAREN;BIEN VIVRE A BAREN;;;OUI;1;M;LABIT;Didier;Française;;
+31;Haute-Garonne;31047;Bax;1;BAX AU COEUR;BAX AU COEUR;;;OUI;1;M;MANFRIN;Jean-Marc;Française;;
+31;Haute-Garonne;31048;Baziège;1;Baziège au coeur;Baziège au coeur, engagés aujourd'hui, prêts pour demain;LDVC;Liste divers centre;OUI;1;M;ROUSSEL;Jean-François;Française;;OUI
+31;Haute-Garonne;31049;Bazus;1;BIEN VIVRE ENSEMBLE À BAZUS;BIEN VIVRE ENSEMBLE À BAZUS;;;OUI;1;F;GALY;Brigitte;Française;;
+31;Haute-Garonne;31050;Beauchalot;1;DE NOUVEAUX VISAGES, UN NOUVEAU DEPART;DE NOUVEAUX VISAGES, UN NOUVEAU DEPART;;;OUI;1;M;BERRUET;Patrick;Française;;
+31;Haute-Garonne;31050;Beauchalot;2;BEAUCHALOT ENSEMBLE;BEAUCHALOT ENSEMBLE;;;OUI;1;M;PICARD;Jean-Luc;Française;;
+31;Haute-Garonne;31051;Beaufort;1;BEAUFORT, UN AVENIR ENSEMBLE;BEAUFORT, UN AVENIR ENSEMBLE;;;OUI;1;M;PARÉDÉ;Daniel;Française;;
+31;Haute-Garonne;31052;Beaumont-sur-Lèze;1;ensemble pour l'avenir;ensemble pour l'avenir;;;OUI;1;M;BLANCHOT;Dominique;Française;;OUI
+31;Haute-Garonne;31052;Beaumont-sur-Lèze;2;CONTINUONS ENSEMBLE POUR BEAUMONT AVEC DYNAMISME ET PASSION;CONTINUONS ENSEMBLE POUR BEAUMONT AVEC DYNAMISME ET PASSION;;;OUI;1;M;CARTÉ;Olivier;Française;;OUI
+31;Haute-Garonne;31053;Beaupuy;1;Continuons ensemble;Continuons ensemble;;;OUI;1;M;FERNANDEZ;Marc;Française;;OUI
+31;Haute-Garonne;31054;Beauteville;1;POUR LE DYNAMISME DE BEAUTEVILLE;POUR LE DYNAMISME DE BEAUTEVILLE;;;OUI;1;M;MILHES;Marius;Française;;
+31;Haute-Garonne;31055;Beauville;1;Défense des intérêts communaux;Défense des intérêts communaux;;;OUI;1;M;POUS;Thierry;Française;;
+31;Haute-Garonne;31056;Beauzelle;1;Beauzelle ensemble;Beauzelle ensemble;LDVG;Liste divers gauche;OUI;1;M;RODRIGUES;Patrice;Française;;OUI
+31;Haute-Garonne;31056;Beauzelle;2;AGISSONS UNIS POUR BEAUZELLE;AGISSONS UNIS POUR BEAUZELLE;LDVC;Liste divers centre;OUI;1;M;MOUREREAU;David;Française;;OUI
+31;Haute-Garonne;31057;Belberaud;1;Bien vivre à Belberaud;Bien vivre à Belberaud;;;OUI;1;M;SORROCHE;Rafael;Française;;OUI
+31;Haute-Garonne;31058;Belbèze-de-Lauragais;1;Ensemble pour Belbèze;Ensemble pour Belbèze;;;OUI;1;F;GAVEN;Catherine;Française;;
+31;Haute-Garonne;31059;Belbèze-en-Comminges;1;NOTRE AVENIR, NOTRE COMMUNE;NOTRE AVENIR, NOTRE COMMUNE;;;OUI;1;M;JOUBE;Raymond;Française;;
+31;Haute-Garonne;31060;Bélesta-en-Lauragais;1;Bélesta continue;Bélesta continue;;;OUI;1;M;MARTIN;Mickael;Française;;
+31;Haute-Garonne;31061;Bellegarde-Sainte-Marie;1;BIEN VIVRE A BELLEGARDE;BIEN VIVRE A BELLEGARDE;;;OUI;1;M;HIENNE;Pierre;Française;;
+31;Haute-Garonne;31062;Bellesserre;1;Bien vivre ici;Bien vivre ici;;;OUI;1;M;NOEL;Sebastien;Française;;
+31;Haute-Garonne;31063;Benque;1;DEFENSE DES INTERETS COMMUNAUX;DEFENSE DES INTERETS COMMUNAUX;;;OUI;1;M;LASSERRE;Jean-Claude;Française;;
+31;Haute-Garonne;31064;Benque-Dessous-et-Dessus;1;NOTRE VILLAGE ENSEMBLE;NOTRE VILLAGE ENSEMBLE;;;OUI;1;F;MICHEL;Marion;Française;;
+31;Haute-Garonne;31065;Bérat;1;BERAT 2026 GARDONS LE CAP !;BERAT 2026 GARDONS LE CAP !;;;OUI;1;M;BLANC;Paul-Marie;Française;;OUI
+31;Haute-Garonne;31065;Bérat;2;REDONNONS VIE A BERAT !;REDONNONS VIE A BERAT !;;;OUI;1;M;ALLAIS;François;Française;;OUI
+31;Haute-Garonne;31066;Bessières;1;Bessières, continuons ensemble;Bessières, continuons ensemble;LDIV;Liste Divers;OUI;1;M;MAUREL;Cédric;Française;;OUI
+31;Haute-Garonne;31066;Bessières;2;BESSIÈRES : DEMAIN SE CONSTRUIT AUJOURD'HUI;BESSIÈRES : DEMAIN SE CONSTRUIT AUJOURD'HUI;LDIV;Liste Divers;OUI;1;F;PEZET;Emilie;Française;;OUI
+31;Haute-Garonne;31066;Bessières;3;Bessières coeurs d'ici;Bessières coeurs d'ici;LDIV;Liste Divers;OUI;1;F;ONTENIENTE;Sylvia;Française;;OUI
+31;Haute-Garonne;31067;Bezins-Garraux;1;BEZINS-GARRAUX TOUT SIMPLEMENT;BEZINS-GARRAUX TOUT SIMPLEMENT;;;OUI;1;M;DAT;Jean-Michel;Française;;
+31;Haute-Garonne;31068;Billière;1;POURSUIVRE ENSEMBLE L'ELAN POUR BILLIERE !;POURSUIVRE ENSEMBLE L'ELAN POUR BILLIERE !;;;OUI;1;F;LAFONT;Céline;Française;;
+31;Haute-Garonne;31069;Blagnac;1;UNIS POUR BLAGNAC;UNIS POUR BLAGNAC;LDVC;Liste divers centre;OUI;1;M;CARLES;Joseph;Française;;OUI
+31;Haute-Garonne;31069;Blagnac;2;Blagnac, Citoyenne, Écologique et Solidaire;Blagnac, Citoyenne, Écologique et Solidaire;LDVG;Liste divers gauche;OUI;1;M;TOULZA;Antoine;Française;;OUI
+31;Haute-Garonne;31069;Blagnac;3;L'avenir ensemble;L'avenir ensemble;LDVG;Liste divers gauche;OUI;1;F;CANUT;Chantal;Française;;OUI
+31;Haute-Garonne;31070;Blajan;1;POUR UN VILLAGE CONVIVIAL TOURNE VERS L'AVENIR;POUR UN VILLAGE CONVIVIAL TOURNE VERS L'AVENIR;;;OUI;1;F;SERVANT-ORTEGA;Laurence;Française;;
+31;Haute-Garonne;31070;Blajan;2;Blajan, un nouvel élan!;Blajan, un nouvel élan!;;;OUI;1;M;GRINDES;Matthieu;Française;;
+31;Haute-Garonne;31071;Bois-de-la-Pierre;1;AUJOURD'HUI RENAIT LE BOIS DE LA PIERRE;AUJOURD'HUI RENAIT LE BOIS DE LA PIERRE;;;OUI;1;M;BOUBE;Jean-Louis;Française;;
+31;Haute-Garonne;31071;Bois-de-la-Pierre;2;CONTINUONS ENSEMBLE;CONTINUONS ENSEMBLE;;;OUI;1;M;WAWRZYNIAK;Stéphane;Française;;
+31;Haute-Garonne;31072;Boissède;1;BOISSEDE 2026;BOISSEDE 2026;;;OUI;1;M;FRECHOU;Alain;Française;;
+31;Haute-Garonne;31073;Bondigoux;1;Agir avec vous, pour Bondigoux;Agir avec vous, pour Bondigoux;;;OUI;1;M;ROUX;Didier;Française;;
+31;Haute-Garonne;31073;Bondigoux;2;Bondigoux 2026 : un projet pour tous;Bondigoux 2026 : un projet pour tous;;;OUI;1;M;ACRIZ;Thibaut;Française;;
+31;Haute-Garonne;31074;Bonrepos-Riquet;1;Unis pour Bonrepos-Riquet;Unis pour Bonrepos-Riquet;;;OUI;1;M;SEILLES;Philippe;Française;;
+31;Haute-Garonne;31074;Bonrepos-Riquet;2;AU COEUR DE NOS VILLAGEOIS;AU COEUR DE NOS VILLAGEOIS;;;OUI;1;F;BOURRET;Séverine;Française;;
+31;Haute-Garonne;31075;Bonrepos-sur-Aussonnelle;1;BONREPOS AUTREMENT SAISON 2;BONREPOS AUTREMENT SAISON 2;;;OUI;1;M;CHEBELIN;Thierry;Française;;OUI
+31;Haute-Garonne;31076;Bordes-de-Rivière;1;UNE NOUVELLE EQUIPE POUR BORDES DE RIVIERE;UNE NOUVELLE EQUIPE POUR BORDES DE RIVIERE;;;OUI;1;F;SKANDINE;Sandrine;Française;;
+31;Haute-Garonne;31076;Bordes-de-Rivière;2;POUR BORDES, ENSEMBLE;POUR BORDES, ENSEMBLE;;;OUI;1;M;ROUX;Christophe;Française;;
+31;Haute-Garonne;31077;Le Born;1;Agir Ensemble;Agir Ensemble;;;OUI;1;M;RICHARD;Roland;Française;;
+31;Haute-Garonne;31077;Le Born;2;LE BORN UN ENGAGEMENT POUR TOUS;LE BORN UN ENGAGEMENT POUR TOUS;;;OUI;1;M;NEGRO;Jean-Luc;Française;;
+31;Haute-Garonne;31078;Boudrac;1;Boudrac 2026;Boudrac 2026;;;OUI;1;M;CLARENS;Gilles;Française;;
+31;Haute-Garonne;31079;Bouloc;1;BOULOC ENSEMBLE;BOULOC ENSEMBLE;LDIV;Liste Divers;OUI;1;M;TERRANCLE;Serge;Française;;OUI
+31;Haute-Garonne;31079;Bouloc;2;Unis dans un nouvel élan;Unis dans un nouvel élan;LDVG;Liste divers gauche;OUI;1;M;NAVLET;Guy;Française;;OUI
+31;Haute-Garonne;31080;Boulogne-sur-Gesse;1;ENSEMBLE POUR DEMAIN;ENSEMBLE POUR DEMAIN;;;OUI;1;M;BOUBÉE;Alain;Française;;OUI
+31;Haute-Garonne;31081;Bourg-d'Oueil;1;VILLAGE DE BOURG;VILLAGE DE BOURG;;;OUI;1;M;JAMME;Henri;Française;;
+31;Haute-Garonne;31082;Bourg-Saint-Bernard;1;Notre bourg, notre avenir !;Notre bourg, notre avenir !;;;OUI;1;M;ALLIOUX;Jean-Marc;Française;;OUI
+31;Haute-Garonne;31082;Bourg-Saint-Bernard;2;Agissons ensemble;Agissons ensemble;;;OUI;1;M;PARKER;David;Française;;OUI
+31;Haute-Garonne;31083;Boussan;1;UN RENOUVEAU POUR BOUSSAN;UN RENOUVEAU POUR BOUSSAN;;;OUI;1;M;LAPUYADE;Didier;Française;;
+31;Haute-Garonne;31084;Boussens;1;CONTINUONS D'AGIR POUR BOUSSENS;CONTINUONS D'AGIR POUR BOUSSENS;;;OUI;1;M;ROQUEBERT;Joël;Française;;OUI
+31;Haute-Garonne;31085;Boutx;1;ENSEMBLE POUR BOUTX-ARGUT-DESSUS-COULEDOUX;ENSEMBLE POUR BOUTX-ARGUT-DESSUS-COULEDOUX;;;OUI;1;M;MELAZZINI;Fabien;Française;;
+31;Haute-Garonne;31086;Bouzin;1;ENSEMBLE POUR BOUZIN;ENSEMBLE POUR BOUZIN;;;OUI;1;M;PASSAMENT;Alain;Française;;
+31;Haute-Garonne;31087;Bragayrac;1;vivre ensemble a bragayrac;vivre ensemble a bragayrac;;;OUI;1;M;DESCHAMPS;Gilbert;Française;;
+31;Haute-Garonne;31088;Brax;1;Agir pour Brax 2.0;Agir pour Brax 2.0;;;OUI;1;M;ZANATTA;Thierry;Française;;OUI
+31;Haute-Garonne;31089;Bretx;1;Un mandat nouveau, un élan commun;Un mandat nouveau, un élan commun;;;OUI;1;M;ESPIE;Jean-Claude;Française;;
+31;Haute-Garonne;31090;Brignemont;1;AGIR AUJOURD'HUI, PRÉPARER DEMAIN;AGIR AUJOURD'HUI, PRÉPARER DEMAIN;;;OUI;1;M;BOUSSAROT;Jérôme;Française;;
+31;Haute-Garonne;31091;Bruguières;1;Agir ensemble pour Bruguières;Agir ensemble pour Bruguières;LDVC;Liste divers centre;OUI;1;M;SIGU;Arnaud;Française;;OUI
+31;Haute-Garonne;31091;Bruguières;2;BRUGUIÈRES BATISSONS LA DÉMOCRATIE;BRUGUIÈRES BATISSONS LA DÉMOCRATIE;LDVG;Liste divers gauche;OUI;1;M;BORIES;Philippe;Française;;OUI
+31;Haute-Garonne;31092;Burgalays;1;BIEN VIVRE A BURGALAYS;BIEN VIVRE A BURGALAYS;;;OUI;1;M;LOMI;René-Paul;Française;;
+31;Haute-Garonne;31093;Le Burgaud;1;Le Burgaud : l'avenir en commun;Le Burgaud : l'avenir en commun;;;OUI;1;M;MORU;Roland;Française;;
+31;Haute-Garonne;31094;Buzet-sur-Tarn;1;Demain Buzet;Demain Buzet;;;OUI;1;M;JOVIADO;Gilles;Française;;OUI
+31;Haute-Garonne;31095;Cabanac-Cazaux;1;CULTIVONS LE BIEN VIVRE A CABANAC-CAZAUX;CULTIVONS LE BIEN VIVRE A CABANAC-CAZAUX;;;OUI;1;M;FAVAREL;Gilles;Française;;
+31;Haute-Garonne;31096;Cabanac-Séguenville;1;BIEN VIVRE À CABANAC-SEGUENVILLE;BIEN VIVRE À CABANAC-SÉGUENVILLE;;;OUI;1;F;NARGUET;Anne-Marie;Française;;
+31;Haute-Garonne;31097;Le Cabanial;1;BIEN VIVRE AU CABANIAL;BIEN VIVRE AU CABANIAL;;;OUI;1;M;ROUVILLAIN;Thierry;Française;;
+31;Haute-Garonne;31098;Cadours;1;AGIR POUR CADOURS;AGIR POUR CADOURS;;;OUI;1;M;BARCELLINI;Tony;Française;;OUI
+31;Haute-Garonne;31098;Cadours;2;Cadours ensemble;Cadours ensemble;;;OUI;1;M;LAFFONT;Didier;Française;;OUI
+31;Haute-Garonne;31099;Caignac;1;Bien vivre à Caignac;Bien vivre à Caignac;;;OUI;1;M;BARTHES;Serge;Française;;
+31;Haute-Garonne;31100;Calmont;1;Calmont, notre village, notre avenir;Calmont, notre village, notre avenir;;;OUI;1;M;PORTET;Christian;Française;;OUI
+31;Haute-Garonne;31101;Cambernard;1;AVEC VOUS POUR CAMBERNARD;AVEC VOUS POUR CAMBERNARD;;;OUI;1;M;BOLLATI;Pierre;Française;;
+31;Haute-Garonne;31102;Cambiac;1;Unis pour cambiac;Unis pour cambiac;;;OUI;1;F;LACOMBE;Céline;Française;;
+31;Haute-Garonne;31103;Canens;1;vivre et préserver notre village;vivre et préserver notre village;;;OUI;1;M;BAUDINIERE;Julien;Française;;
+31;Haute-Garonne;31104;Capens;1;ENSEMBLE, CONTINUONS A ECRIRE L'AVENIR DE CAPENS;ENSEMBLE, CONTINUONS A ECRIRE L'AVENIR DE CAPENS;;;OUI;1;M;DORBES;Jean-Luc;Française;;
+31;Haute-Garonne;31105;Caragoudes;1;Vivre à Caragoudes;Vivre à Caragoudes;;;OUI;1;M;CLARET;Jean-Jacques;Française;;
+31;Haute-Garonne;31106;Caraman;1;Pour l'avenir de Caraman;Pour l'avenir de Caraman;;;OUI;1;F;NAVARRO;Karine;Française;;OUI
+31;Haute-Garonne;31106;Caraman;2;ENSEMBLE,OSONS AGIR POUR CARAMAN;ENSEMBLE,OSONS AGIR POUR CARAMAN;;;OUI;1;M;LASMAN;Daniel;Française;;OUI
+31;Haute-Garonne;31107;Carbonne;1;carbonne autrement;carbonne autrement;LDVC;Liste divers centre;OUI;1;M;LE BRUN;Stéphane;Française;;OUI
+31;Haute-Garonne;31107;Carbonne;2;Carbonne,notre passion commune;Carbonne,notre passion commune;LDVC;Liste divers centre;OUI;1;M;LAMARQUE;Didier;Française;;OUI
+31;Haute-Garonne;31107;Carbonne;3;CARBONNE AVEC VOUS;CARBONNE AVEC VOUS;LSOC;Liste du Parti socialiste;OUI;1;F;TEMPESTA;Marie-Caroline;Française;;OUI
+31;Haute-Garonne;31108;Cardeilhac;1;POUR CARDEILHAC, COEUR ET AVENIR;POUR CARDEILHAC, COEUR ET AVENIR;;;OUI;1;M;BOYER;Raymond;Française;;
+31;Haute-Garonne;31109;Cassagnabère-Tournas;1;Ensemble pour Cassa;Ensemble pour Cassa;;;OUI;1;M;VIGNES;Philippe;Française;;
+31;Haute-Garonne;31110;Cassagne;1;POUR CASSAGNE, NOTRE VILLAGE;POUR CASSAGNE, NOTRE VILLAGE;;;OUI;1;F;BUISINE;Candice;Française;;
+31;Haute-Garonne;31111;Castagnac;1;AGISSONS POUR L'AVENIR DE NOTRE COMMUNE;AGISSONS POUR L'AVENIR DE NOTRE COMMUNE;;;OUI;1;M;DESTEFANIS;Jean-Marc;Française;;
+31;Haute-Garonne;31112;Castagnède;1;ENSEMBLE POUR L'AVENIR DE CASTAGNEDE;ENSEMBLE POUR L'AVENIR DE CASTAGNEDE;;;OUI;1;M;BLANC;Aurélien;Française;;
+31;Haute-Garonne;31113;Castanet-Tolosan;1;Unis pour Castanet;Unis pour Castanet;LDVD;Liste divers droite;OUI;1;M;PUISSANT;Jordan;Française;;OUI
+31;Haute-Garonne;31113;Castanet-Tolosan;2;Castanet en commun;Castanet en commun;LDVG;Liste divers gauche;OUI;1;F;KLOPP-TOSSER;Gwenola;Française;;OUI
+31;Haute-Garonne;31113;Castanet-Tolosan;3;Castanet en action;Castanet en action;LUG;Liste d'union à gauche;OUI;1;M;CHICOT;Pascal;Française;;OUI
+31;Haute-Garonne;31114;Castelbiague;1;CONTINUER D'AGIR POUR CASTELBIAGUE;CONTINUER D'AGIR POUR CASTELBIAGUE;;;OUI;1;M;RIBET;Henri;Française;;
+31;Haute-Garonne;31115;Castelgaillard;1;ENSEMBLE POUR CASTELGAILLARD;ENSEMBLE POUR CASTEGAILLARD;;;OUI;1;F;FOREST;Cécile;Française;;
+31;Haute-Garonne;31116;Castelginest;1;Castelginest avance;Castelginest avance;LDVD;Liste divers droite;OUI;1;M;CARNEIRO;Grégoire;Française;;OUI
+31;Haute-Garonne;31116;Castelginest;2;Castelginest Autrement;Castelginest Autrement;LUG;Liste d'union à gauche;OUI;1;F;BESSIERE;Maryline;Française;;OUI
+31;Haute-Garonne;31117;Castelmaurou;1;CASTELMAUROU : MON VILLAGE , NOTRE AVENIR;CASTELMAUROU : MON VILLAGE , NOTRE AVENIR;LDIV;Liste Divers;OUI;1;M;EBERLE;Laurent;Française;;OUI
+31;Haute-Garonne;31117;Castelmaurou;2;Castelmaurou. Ensemble pour l'avenir;Castelmaurou. Ensemble pour l'avenir;LDIV;Liste Divers;OUI;1;F;ESQUERRE;Diane;Française;;OUI
+31;Haute-Garonne;31118;Castelnau-d'Estrétefonds;1;Ensemble maitrisons notre avenir;Ensemble maitrisons notre avenir;LDVG;Liste divers gauche;OUI;1;F;SIGAL;Sandrine;Française;;OUI
+31;Haute-Garonne;31118;Castelnau-d'Estrétefonds;2;Union pour Castelnau;Union pour Castelnau;LDVD;Liste divers droite;OUI;1;M;RECOBRE;Pierre;Française;;OUI
+31;Haute-Garonne;31119;Castelnau-Picampeau;1;CASTELNAU ENSEMBLE;CASTELNAU ENSEMBLE;;;OUI;1;M;CAZALOT;Christian;Française;;
+31;Haute-Garonne;31120;Le Castéra;1;Agir pour le Castéra;Agir pour le Castéra;;;OUI;1;F;RIVAUD;Stéphanie;Française;;
+31;Haute-Garonne;31120;Le Castéra;2;Ensemble dans la continuité;Ensemble dans la continuité;;;OUI;1;F;BÉGUÉ;Sophie;Française;;
+31;Haute-Garonne;31121;Castéra-Vignoles;1;CASTERA-VIGNOLES POUR TOUS;CASTERA-VIGNOLES POUR TOUS;;;OUI;1;M;POUZOL;Thierry;Française;;
+31;Haute-Garonne;31122;Casties-Labrande;1;Liste de défense des intérêts communaux;Liste de défense des intérêts communaux;;;OUI;1;M;MAUMUS;Jean-François;Française;;
+31;Haute-Garonne;31123;Castillon-de-Larboust;1;CASTILLON CONTINUITE;CASTILLON CONTINUITE;;;OUI;1;M;CRAMPE;Philippe;Française;;
+31;Haute-Garonne;31124;Castillon-de-Saint-Martory;1;CASTILLON UN VILLAGE OU IL FAIT BON VIVRE;CASTILLON UN VILLAGE OU IL FAIT BON VIVRE;;;OUI;1;F;BOUE;Elodie;Française;;
+31;Haute-Garonne;31125;Cathervielle;1;DEFENSE DES INTERETS COMMUNAUX;DEFENSE DES INTERETS COMMUNAUX;;;OUI;1;F;SOULÉ;Maryvonne;Française;;
+31;Haute-Garonne;31126;Caubiac;1;CAUBIAC EN COMMUN;CAUBIAC EN COMMUN;;;OUI;1;M;VERNIN;Jean-Yves;Française;;
+31;Haute-Garonne;31127;Caubous;1;DU RENOUVEAU POUR CAUBOUS;DU RENOUVEAU POUR CAUBOUS;;;OUI;1;M;BATIGNE;Alain;Française;;
+31;Haute-Garonne;31127;Caubous;2;CAUBOUS 2026;CAUBOUS 2026;;;OUI;1;F;LUSSIEZ;Patricia;Française;;
+31;Haute-Garonne;31128;Caujac;1;AGIR POUR CAUJAC;AGIR POUR CAUJAC;;;OUI;1;F;FREYCHE;Émilie;Française;;
+31;Haute-Garonne;31129;Cazarilh-Laspènes;1;POUR CAZARILH;POUR CAZARILH;;;OUI;1;F;CAZCARRA;Sandra;Française;;
+31;Haute-Garonne;31130;Cazaril-Tambourès;1;CAZARIL POUR TOUS;CAZARIL POUR TOUS;;;OUI;1;M;DESPRATS;Frédéric;Française;;
+31;Haute-Garonne;31131;Cazaunous;1;BIEN VIVRE A CAZAUNOUS;BIEN VIVRE A CAZAUNOUS;;;OUI;1;M;ABADIE;Jean-Benoit;Française;;
+31;Haute-Garonne;31131;Cazaunous;2;ENSEMBLE POUR NOTRE VILLAGE;ENSEMBLE POUR NOTRE VILLAGE;;;OUI;1;M;ARNAUD;Jacques;Française;;
+31;Haute-Garonne;31132;Cazaux-Layrisse;1;BIEN VIVRE A CAZAUX-LAYRISSE;BIEN VIVRE A CAZAUX-LAYRISSE;;;OUI;1;M;DORE;Jean-Pierre;Française;;
+31;Haute-Garonne;31133;Cazeaux-de-Larboust;1;ENSEMBLE POUR CAZEAUX;ENSEMBLE POUR CAZEAUX;;;OUI;1;M;ADER;Francis;Française;;
+31;Haute-Garonne;31134;Cazeneuve-Montaut;1;BIEN VIVRE ENSEMBLE;BIEN VIVRE ENSEMBLE;;;OUI;1;M;TESSER;Christian;Française;;
+31;Haute-Garonne;31135;Cazères;1;agissons pour cazeres;agissons pour cazeres;LDVG;Liste divers gauche;OUI;1;M;DEFIS;Raymond;Française;;OUI
+31;Haute-Garonne;31135;Cazères;2;Mieux vivre a CAZERES;Mieux vivre a CAZERES;LDVC;Liste divers centre;OUI;1;M;RIVIERE;Jean-Luc;Française;;OUI
+31;Haute-Garonne;31136;Cépet;1;CÉPET, UN AVENIR QUI NOUS RASSEMBLE;CÉPET, UN AVENIR QUI NOUS RASSEMBLE;;;OUI;1;M;FOUGERAY;Jean-Michel;Française;;OUI
+31;Haute-Garonne;31136;Cépet;2;Ensemble, continuons d'agir pour Cépet.;Ensemble, continuons d'agir pour Cépet.;;;OUI;1;F;SOLOMIAC;Colette;Française;;OUI
+31;Haute-Garonne;31137;Cessales;1;Bien vivre à Cessales avec Emmannuel Pouilles;Bien vivre à Cessales avec Emmannuel Pouilles;;;OUI;1;F;ASTRIC;Marie-Hélène;Française;;
+31;Haute-Garonne;31138;Charlas;1;UNI(E)S POUR L'AVENIR;UNI(E)S POUR L'AVENIR;;;OUI;1;M;DUCLOS;Jean-Pierre;Française;;
+31;Haute-Garonne;31139;Chaum;1;GENERATIONS UNIES POUR CHAUM;GENERATIONS UNIES POUR CHAUM;;;OUI;1;F;BOUKEBBOUCHE;Farida;Française;;
+31;Haute-Garonne;31140;Chein-Dessus;1;LA PROTECTION DES INTERETS COMMUNAUX;LA PROTECTION DES INTERETS COMMUNAUX;;;OUI;1;F;SENTENAC;Lucie;Française;;
+31;Haute-Garonne;31141;Ciadoux;1;Ciadoux: L'engagement continue;Ciadoux: L'engagement continue;;;OUI;1;M;TOUBERT;Thierry;Française;;
+31;Haute-Garonne;31142;Cier-de-Luchon;1;LISTE D'ENTENTE COMMUNALE;LISTE D'ENTENTE COMMUNALE;;;OUI;1;M;COMET;Frédéric;Française;;
+31;Haute-Garonne;31143;Cier-de-Rivière;1;ENSEMBLE POUR LA VIE DE NOTRE VILLAGE;ENSEMBLE POUR LA VIE DE NOTRE VILLAGE;;;OUI;1;F;EXPOSITO;Murielle;Française;;
+31;Haute-Garonne;31144;Cierp-Gaud;1;CIERP GAUD AUTREMENT;CIERP GAUD AUTREMENT;;;OUI;1;M;REBONATO;Jean-Pierre;Française;;
+31;Haute-Garonne;31144;Cierp-Gaud;2;ENSEMBLE POUR CIERP-GAUD;ENSEMBLE POUR CIERP-GAUD;;;OUI;1;M;GUIARD;Claude;Française;;
+31;Haute-Garonne;31145;Cintegabelle;1;vivre cintegabelle;vivre cintegabelle;;;OUI;1;F;COURBIERES;Monique;Française;;OUI
+31;Haute-Garonne;31145;Cintegabelle;2;UN NOUVEL ELAN;UN NOUVEL ELAN;;;OUI;1;M;DA FONSECA NAVEGA;Ludovic;Française;;OUI
+31;Haute-Garonne;31146;Cirès;1;ENSEMBLE POUR CIRES;ENSEMBLE POUR CIRES;;;OUI;1;M;BRUNA;Laurent;Française;;
+31;Haute-Garonne;31147;Clarac;1;ENSEMBLE AGISSONS POUR LE CLARAC DE DEMAIN;ENSEMBLE AGISSONS POUR LE CLARAC DE DEMAIN;;;OUI;1;M;MANENT-MANENT;Jean-Paul;Française;;
+31;Haute-Garonne;31148;Clermont-le-Fort;1;Tous pour Clermont-Le-Fort;Tous pour Clermont-Le-Fort;;;OUI;1;F;GIACHETTO;Bethy;Française;;
+31;Haute-Garonne;31149;Colomiers;1;À Colomiers, changeons d'ère!;À Colomiers, changeons d'ère!;LDVG;Liste divers gauche;OUI;1;M;LÉPINEUX;François;Française;;OUI
+31;Haute-Garonne;31149;Colomiers;2;LUTTE OUVRIÈRE - Le camp des Travailleurs;LUTTE OUVRIÈRE - Le camp des Travailleurs;LEXG;Liste d'extrême-gauche;OUI;1;M;CREVAT;Joachim;Française;;OUI
+31;Haute-Garonne;31149;Colomiers;3;COLOMIERS A COEUR;COLOMIERS A COEUR;LUC;Liste d'union au centre;OUI;1;F;HOBET;Elodie;Française;;OUI
+31;Haute-Garonne;31149;Colomiers;4;ESPRIT COLOMIERS 2026;ESPRIT COLOMIERS 2026;LUG;Liste d'union à gauche;OUI;1;F;TRAVAL-MICHELET;Karine;Française;;OUI
+31;Haute-Garonne;31149;Colomiers;5;Ambitions Colomiers;Ambitions Colomiers;LDVC;Liste divers centre;OUI;1;M;LAMY;Thomas;Française;;OUI
+31;Haute-Garonne;31150;Cornebarrieu;1;Aimer Cornebarrieu, Cadre de vie, Solidarité et Ambitions;Aimer Cornebarrieu, Cadre de vie, Solidarité et Ambitions;LDVC;Liste divers centre;OUI;1;M;TOPPAN;Alain;Française;;OUI
+31;Haute-Garonne;31150;Cornebarrieu;2;Cornebarrieu - Pour une ville qui vit!;Cornebarrieu - Pour une ville qui vit!;LDIV;Liste Divers;OUI;1;M;BARDEAU;Claude-François;Française;;OUI
+31;Haute-Garonne;31151;Corronsac;1;CORRONSAC 2026 UN PROJET QUI NOUS UNIT;CORRONSAC 2026 UN PROJET QUI NOUS UNIT;;;OUI;1;M;OUPLOMB;Thierry;Française;;
+31;Haute-Garonne;31152;Coueilles;1;CONTINUONS ENSEMBLE POUR COUEILLES;CONTINUONS ENSEMBLE POUR COUEILLES;;;OUI;1;F;BODU;Carole;Française;;
+31;Haute-Garonne;31153;Couladère;1;Liste Election municipale 2026 Commune de COULADERE;Liste Election municipale 2026 Commune de COULADERE;;;OUI;1;F;BOYER;Josiane;Française;;
+31;Haute-Garonne;31155;Couret;1;AVEC VOUS, COURET DEMAIN;AVEC VOUS, COURET DEMAIN;;;OUI;1;M;AJAS;Jean-Luc;Française;;
+31;Haute-Garonne;31156;Cox;1;Ensemble pour Cox;Ensemble pour Cox;;;OUI;1;M;HUAN;Marc;Française;;
+31;Haute-Garonne;31157;Cugnaux;1;Cugnaux Osons Ensemble;Cugnaux Osons Ensemble;LDVG;Liste divers gauche;OUI;1;M;GOUDAL;Frédéric;Française;;OUI
+31;Haute-Garonne;31157;Cugnaux;2;Cugnaux ensemble;Cugnaux ensemble;LDVD;Liste divers droite;OUI;1;M;AUJOULAT;Michel;Française;;OUI
+31;Haute-Garonne;31157;Cugnaux;3;AVEC VOUS POUR CUGNAUX;AVEC VOUS POUR CUGNAUX;LUG;Liste d'union à gauche;OUI;1;M;SANCHEZ;Albert;Française;;OUI
+31;Haute-Garonne;31157;Cugnaux;4;Demain pour Cugnaux avec Aurélien Andreu-Seigné;Demain pour Cugnaux avec Aurélien Andreu-Seigné;LDVC;Liste divers centre;OUI;1;M;ANDREU-SEIGNÉ;Aurélien;Française;;OUI
+31;Haute-Garonne;31157;Cugnaux;5;Lutte ouvrière - Le camp des travailleurs;Lutte ouvrière - Le camp des travailleurs;LEXG;Liste d'extrême-gauche;OUI;1;M;CAUCHOIS;Claude;Française;;OUI
+31;Haute-Garonne;31157;Cugnaux;6;Vivons Cugnaux;Vivons Cugnaux;LSOC;Liste du Parti socialiste;OUI;1;M;GRANVILLE;Fabrice;Française;;OUI
+31;Haute-Garonne;31158;Cuguron;1;UNIS POUR CUGURON;UNIS POUR CUGURON;;;OUI;1;F;SANTAMARIA;Christine;Française;;
+31;Haute-Garonne;31159;Le Cuing;1;LE CUING, CONTINUITE ET RENOUVEAU;LE CUING, CONTINUITE ET RENOUVEAU;;;OUI;1;M;DUPUY;David;Française;;
+31;Haute-Garonne;31160;Daux;1;ENSEMBLE POUR DAUX;ENSEMBLE POUR DAUX;;;OUI;1;M;LAGORCE;Patrice;Française;;OUI
+31;Haute-Garonne;31161;Deyme;1;DEYME un projet pour tous un avenir pour chacun;DEYME un projet pour tous un avenir pour chacun;;;OUI;1;M;BATLLE;Alain;Française;;OUI
+31;Haute-Garonne;31161;Deyme;2;RÉINVENTER DEYME;RÉINVENTER DEYME;;;OUI;1;M;HEMPTINNE;Jean-Louis;Belge;;OUI
+31;Haute-Garonne;31162;Donneville;1;Continuons Donneville ensemble;Continuons Donneville ensemble;;;OUI;1;M;CROUZIL;Bernard;Française;;OUI
+31;Haute-Garonne;31163;Drémil-Lafage;1;Drémil-Lafage, un village uni pour un nouvel élan;Drémil-Lafage, un village uni pour un nouvel élan;;;OUI;1;M;BONARDI;Bruno;Française;;OUI
+31;Haute-Garonne;31163;Drémil-Lafage;2;Continuons d'avancer ensemble;Continuons d'avancer ensemble;;;OUI;1;F;RUSSO;Ida;Française;;OUI
+31;Haute-Garonne;31164;Drudas;1;Drudas Ensemble pour notre Village;Drudas Ensemble pour notre Village;;;OUI;1;M;DULONG;Denis;Française;;
+31;Haute-Garonne;31165;Eaunes;1;Ensemble pour Eaunes;Ensemble pour Eaunes;LDVC;Liste divers centre;OUI;1;M;REBELLATO;Yves;Française;;OUI
+31;Haute-Garonne;31165;Eaunes;2;Eaunes est a vous;Eaunes est a vous;LSOC;Liste du Parti socialiste;OUI;1;M;ESPINOSA;Daniel;Française;;OUI
+31;Haute-Garonne;31165;Eaunes;3;AIMER EAUNES;AIMER EAUNES;LDVC;Liste divers centre;OUI;1;M;SOTTIL;Alain;Française;;OUI
+31;Haute-Garonne;31165;Eaunes;4;"Eaunes 2026 :""une gazel"" agile pour faire bouger la ville !";"Eaunes 2026 : ""une gazel"" agile pour faire bouger la ville !";LDVD;Liste divers droite;OUI;1;F;GAZEL;Brigitte;Française;;OUI
+31;Haute-Garonne;31166;Empeaux;1;NOTRE VILLAGE, NOTRE AVENIR;NOTRE VILLAGE, NOTRE AVENIR;;;OUI;1;M;GARROS;Christophe;Française;;
+31;Haute-Garonne;31167;Encausse-les-Thermes;1;POUR QUE VIVE ENCAUSSE;POUR QUE VIVE ENCAUSSE;;;OUI;1;M;PRADERE;Jean Louis;Française;;
+31;Haute-Garonne;31167;Encausse-les-Thermes;2;ENCAUSSE-LES-THERMES FRATERNELLE ET SOLIDAIRE;ENCAUSSE-LES-THERMES FRATERNELLE ET SOLIDAIRE;;;OUI;1;M;AVIRAGNET;Joël;Française;DEP;
+31;Haute-Garonne;31168;Eoux;1;EOUX Passion Commune;EOUX Passion Commune;;;OUI;1;M;LEPLAT;José;Française;;
+31;Haute-Garonne;31168;Eoux;2;S'UNIR POUR EOUX;S'UNIR POUR EOUX;;;OUI;1;F;REY;Monique;Française;;
+31;Haute-Garonne;31169;Escalquens;1;AVEC VOUS POUR ESCALQUENS;AVEC VOUS POUR ESCALQUENS;LDVD;Liste divers droite;OUI;1;M;TRONCO;Jean-Luc;Française;;OUI
+31;Haute-Garonne;31169;Escalquens;2;Escalquens un nouveau cap;Escalquens un nouveau cap;LDVG;Liste divers gauche;OUI;1;M;LALA;Yacin;Française;;OUI
+31;Haute-Garonne;31170;Escanecrabe;1;RENOUVEAU POUR ESCANECRABE;RENOUVEAU POUR ESCANECRABE;;;OUI;1;M;ARSEGUET;Jean Claude;Française;;
+31;Haute-Garonne;31171;Espanès;1;Espanes, vivre ensemble;Espanes, vivre ensemble;;;OUI;1;M;FAUCHER;Dominique;Française;;
+31;Haute-Garonne;31172;Esparron;1;LISTE D'ENTENTE COMMUNALE;LISTE D'ENTENTE COMMUNALE;;;OUI;1;M;LAJOUS;Jean-Claude;Française;;
+31;Haute-Garonne;31173;Esperce;1;agir ensemble pour Esperce;agir ensemble pour Esperce;;;OUI;1;F;BARTHE MICAALLEF;Sandrine;Française;;
+31;Haute-Garonne;31174;Estadens;1;ESTADENS DEMAIN !;ESTADENS DEMAIN !;;;OUI;1;F;DELAYE;Ute;Française;;
+31;Haute-Garonne;31174;Estadens;2;ENSEMBLE POUR L'AVENIR ESTADENS;ENSEMBLE POUR L'AVENIR ESTADENS;;;OUI;1;M;MARTIN;Robert;Française;;
+31;Haute-Garonne;31175;Estancarbon;1;ENSEMBLE A ESTANCARBON;ENSEMBLE A ESTANCARBON;;;OUI;1;M;DUPIN;Christophe;Française;;
+31;Haute-Garonne;31176;Esténos;1;UN NOUVEAU SOUFFLE POUR ESTENOS;UN NOUVEAU SOUFFLE POUR ESTENOS;;;OUI;1;M;BOYA;Vincent;Française;;
+31;Haute-Garonne;31177;Eup;1;EUP POUR TOUS;EUP POUR TOUS;;;OUI;1;M;RUMEAU;Jean-Claude;Française;;
+31;Haute-Garonne;31177;Eup;2;POURSUIVRE ENSEMBLE L'AVENIR DE EUP;POURSUIVRE ENSEMBLE L'AVENIR DE EUP;;;OUI;1;M;PEREMIQUEL;Mathieu;Française;;
+31;Haute-Garonne;31178;Fabas;1;AVANCONS ENSEMBLE POUR FABAS;AVANCONS ENSEMBLE POUR FABAS;;;OUI;1;F;CHARLAS;Brigitte;Française;;
+31;Haute-Garonne;31178;Fabas;2;ENSEMBLE POUR FABAS;ENSEMBLE POUR FABAS;;;OUI;1;M;ESTRADE;Alain;Française;;
+31;Haute-Garonne;31179;Le Faget;1;Ensemble pour Le Faget;Ensemble pour Le Faget;;;OUI;1;M;CALMETTES;Francis;Française;;
+31;Haute-Garonne;31180;Falga;1;Semons ensemble pour demain;Semons ensemble pour demain;;;OUI;1;F;GRANZOTTO;Helene;Française;;
+31;Haute-Garonne;31180;Falga;2;UN NOUVEL ELAN POUR LE FALGA;UN NOUVEL ELAN POUR LE FALGA;;;OUI;1;M;BLANCHON;Pascal;Française;;
+31;Haute-Garonne;31181;Le Fauga;1;UN ELAN POUR LE FAUGA;UN ELAN POUR LE FAUGA;;;OUI;1;M;DOMINE;Hervé;Française;;OUI
+31;Haute-Garonne;31181;Le Fauga;2;LE FAUGA 2026, ENSEMBLE ON CONTINUE;LE FAUGA 2026, ENSEMBLE ON CONTINUE;;;OUI;1;M;PUIG;Jean-Marie;Française;;OUI
+31;Haute-Garonne;31182;Fenouillet;1;FENOUILLETAINS;FENOUILLETAINS;LDVD;Liste divers droite;OUI;1;M;BROQUÈRE;Gilles;Française;;OUI
+31;Haute-Garonne;31182;Fenouillet;2;Ensemble pour Fenouillet;Ensemble pour Fenouillet;LDVG;Liste divers gauche;OUI;1;M;DUHAMEL;Thierry;Française;;OUI
+31;Haute-Garonne;31183;Figarol;1;ENSEMBLE SIMPLEMENT;ENSEMBLE SIMPLEMENT;;;OUI;1;M;VERGE;Éric;Française;;
+31;Haute-Garonne;31184;Flourens;1;Flourens, le village qui nous rassemble;Flourens, le village qui nous rassemble;;;OUI;1;F;RIVOIRE;Marion;Française;;OUI
+31;Haute-Garonne;31185;Folcarde;1;Folcarde pour tous;Folcarde pour tous;;;OUI;1;M;GUAGNO;Antoine Camille;Française;;
+31;Haute-Garonne;31186;Fonbeauzard;1;Fonbeauzard avance, construisons notre avenir ensemble;Fonbeauzard avance, construisons notre avenir ensemble;;;OUI;1;M;LAMRHANI;Mostafa;Française;;OUI
+31;Haute-Garonne;31187;Fonsorbes;1;Fonsorbes rassemblée,Fonsorbes en mieux !;Fonsorbes rassemblée,Fonsorbes en mieux !;LDVD;Liste divers droite;OUI;1;M;LAFOUX;Mathieu;Française;;OUI
+31;Haute-Garonne;31187;Fonsorbes;2;FONSORBES VERS L'AVENIR;FONSORBES VERS L'AVENIR;LDVG;Liste divers gauche;OUI;1;M;SERRANI;Christian;Française;;OUI
+31;Haute-Garonne;31187;Fonsorbes;3;Fonsorbes l'Humain d'Abord;Fonsorbes l'Humain d'Abord;LDVG;Liste divers gauche;OUI;1;M;PILET;Jean-Claude;Française;;OUI
+31;Haute-Garonne;31187;Fonsorbes;4;FONSORBES CITOYENNETE;FONSORBES CITOYENNETE;LDVG;Liste divers gauche;OUI;1;M;SEVERAC;Philippe;Française;;OUI
+31;Haute-Garonne;31188;Fontenilles;1;FONTENILLES AU COEUR;FONTENILLES AU COEUR;LDVC;Liste divers centre;OUI;1;M;TOUNTEVICH;Christophe;Française;;OUI
+31;Haute-Garonne;31188;Fontenilles;2;FONTENILLES AUTHENTIQUE;FONTENILLES AUTHENTIQUE;LRN;Liste du Rassemblement National;OUI;1;F;DEMANGE-FIERLEJ;Nadine;Française;;OUI
+31;Haute-Garonne;31189;Forgues;1;CAP SUR DEMAIN;CAP SUR DEMAIN;;;OUI;1;M;ARAGON;Gabriel;Française;;
+31;Haute-Garonne;31190;Fos;1;UNE EQUIPE AU SERVICE DE TOUS;UNE EQUIPE AU SERVICE DE TOUS;;;OUI;1;F;DEQUESNE;Isabelle;Française;;
+31;Haute-Garonne;31190;Fos;2;UNIS POUR L'AVENIR DE FOS;UNIS POUR L'AVENIR DE FOS;;;OUI;1;M;PENETRO;Pascal;Française;;
+31;Haute-Garonne;31191;Fougaron;1;LA VOIX DE FOURAGON;LA VOIX DE FOURAGON;;;OUI;1;M;CONORT;Lilian;Française;;
+31;Haute-Garonne;31191;Fougaron;2;ENSEMBLE FAISONS VIVRE FOUGARON;ENSEMBLE FAISONS VIVRE FOUGARON;;;OUI;1;M;ESCAIG;Jean-Pierre;Française;;
+31;Haute-Garonne;31192;Fourquevaux;1;Fourquevaux c'est vous;Fourquevaux c'est vous;;;OUI;1;M;CAPELLE;Olivier;Française;;
+31;Haute-Garonne;31193;Le Fousseret;1;ensemble construisons l'avenir;ensemble construisons l'avenir;;;OUI;1;M;GALIAY;Jean-Sébastien;Française;;OUI
+31;Haute-Garonne;31193;Le Fousseret;2;AVEC VOUS POUR LE FOUSSERET;AVEC VOUS POUR LE FOUSSERET;;;OUI;1;F;LAFARGUE VIATGÉ;Claudine;Française;;OUI
+31;Haute-Garonne;31194;Francarville;1;Vivre ensemble;Vivre ensemble;;;OUI;1;M;FIGNES;Jean-Claude;Française;;
+31;Haute-Garonne;31195;Francazal;1;FRANCAZAL ENSEMBLE;FRANCAZAL ENSEMBLE;;;OUI;1;M;LOUBET;Olivier Firmin Sylvain;Française;;
+31;Haute-Garonne;31196;Francon;1;POURSUIVONS ENSEMBLE;POURSUIVONS ENSEMBLE;;;OUI;1;M;GALEA;Georges;Française;;
+31;Haute-Garonne;31196;Francon;2;TOUS POUR FRANCON !;TOUS POUR FRANCON !;;;OUI;1;M;ELGER;Arnaud;Française;;
+31;Haute-Garonne;31197;Franquevielle;1;VIVRE, AGIR ENSEMBLE POUR FRANQUEVIELLE;VIVRE, AGIR ENSEMBLE POUR FRANQUEVIELLE;;;OUI;1;F;NICOLAS;Virginie;Française;;
+31;Haute-Garonne;31198;Le Fréchet;1;UNIS POUR LE FRECHET;UNIS POUR LE FRECHET;;;OUI;1;M;LAVAIL;Frédéric;Française;;
+31;Haute-Garonne;31199;Fronsac;1;FRONSAC ENSEMBLE : UN CHEMIN POUR TOUS;FRONSAC ENSEMBLE : UN CHEMIN POUR TOUS;;;OUI;1;M;MICHEL;Pierre;Française;;
+31;Haute-Garonne;31199;Fronsac;2;ENSEMBLE POUR FRONSAC : CONTINUITE, SOLIDARITE ET DYNAMISME;ENSEMBLE POUR FRONSAC : CONTINUITE, SOLIDARITE ET DYNAMISME;;;OUI;1;F;NOBLE;Françoise;Française;;
+31;Haute-Garonne;31200;Frontignan-de-Comminges;1;CONTINUONS D'AVANCER ENSEMBLE;CONTINUONS D'AVANCER ENSEMBLE;;;OUI;1;M;PLANAS;Yves;Française;;
+31;Haute-Garonne;31201;Frontignan-Savès;1;LISTE D'UNION ET DE DEFENSE DES INTERETS COMMUNAUX;LISTE D'UNION ET DE DEFENSE DES INTERETS COMMUNAUX;;;OUI;1;M;SALLES;Thierry;Française;;
+31;Haute-Garonne;31202;Fronton;1;UNIS POUR FRONTON;UNIS POUR FRONTON;LDVD;Liste divers droite;OUI;1;M;CAVAGNAC;Hugo;Française;;OUI
+31;Haute-Garonne;31202;Fronton;2;Rassemblés pour les frontonnais;Rassemblés pour les frontonnais;LRN;Liste du Rassemblement National;OUI;1;M;TERZY;Serge;Française;;OUI
+31;Haute-Garonne;31203;Frouzins;1;FROUZINS EN COMMUN;FROUZINS EN COMMUN;LUG;Liste d'union à gauche;OUI;1;M;LAFFON;Jérôme;Française;;OUI
+31;Haute-Garonne;31203;Frouzins;2;FROUZINS AUTREMENT;FROUZINS AUTREMENT;LDVC;Liste divers centre;OUI;1;M;FALCOU;Cédric;Française;;OUI
+31;Haute-Garonne;31203;Frouzins;3;UN NOUVEL ELAN;UN NOUVEL ELAN;LDVG;Liste divers gauche;OUI;1;F;LOPEZ;Lydie;Française;;OUI
+31;Haute-Garonne;31204;Fustignac;1;DEFENSE DES INTERETS COMMUNAUX;DEFENSE DES INTERETS COMMUNAUX;;;OUI;1;M;DOMEJEAN;Joël;Française;;
+31;Haute-Garonne;31205;Gagnac-sur-Garonne;1;GAGNAC ENSEMBLE;GAGNAC ENSEMBLE;;;OUI;1;M;BERGOUGNOUX;Patrick;Française;;OUI
+31;Haute-Garonne;31206;Gaillac-Toulza;1;Liste d'entente républicaine pour la gestion de la commune;Liste d'entente républicaine pour la gestion de la commune;;;OUI;1;M;MESPLIÉ;Hubert;Française;;OUI
+31;Haute-Garonne;31207;Galié;1;GALIE 2026;GALIE 2026;;;OUI;1;M;PAYN;Xavier;Française;;
+31;Haute-Garonne;31208;Ganties;1;MIEUX VIVRE ENSEMBLE;MIEUX VIVRE ENSEMBLE;;;OUI;1;F;REY;Jeannine;Française;;
+31;Haute-Garonne;31208;Ganties;2;CONSTRUIRE UN AVENIR COMMUN;CONSTRUIRE UN AVENIR COMMUN;;;OUI;1;M;ABADIE;Michel-Claude;Française;;
+31;Haute-Garonne;31209;Garac;1;Avenir de Garac;Avenir de Garac;;;OUI;1;M;MELAC;Joël;Française;;
+31;Haute-Garonne;31210;Gardouch;1;AGIR ENSEMBLE POUR GARDOUCH;AGIR ENSEMBLE POUR GARDOUCH;;;OUI;1;M;GUERRA;Olivier;Française;;OUI
+31;Haute-Garonne;31210;Gardouch;2;UN COLLECTIF POUR GARDOUCH;UN COLLECTIF POUR GARDOUCH;;;OUI;1;M;BOURROUNET;Gilles;Française;;OUI
+31;Haute-Garonne;31211;Gargas;1;Ensemble pour Gargas;Ensemble pour Gargas;;;OUI;1;F;GIBERT;Jeanine;Française;;
+31;Haute-Garonne;31212;Garidech;1;ENSEMBLE POUR GARIDECH;ENSEMBLE POUR GARIDECH;;;OUI;1;M;RICHARD;Vincent;Française;;OUI
+31;Haute-Garonne;31212;Garidech;2;Démocratie participative Garidech;Démocratie participative Garidech;;;OUI;1;M;CORBIÈRE;Sylvain;Française;;OUI
+31;Haute-Garonne;31213;Garin;1;ENSEMBLE POUR GARIN;ENSEMBLE POUR GARIN;;;OUI;1;M;DUPLAN;Patrick;Française;;
+31;Haute-Garonne;31215;Gauré;1;Gauré avec vous;Gauré avec vous;;;OUI;1;M;GALINIER;Christian;Française;;
+31;Haute-Garonne;31216;Gémil;1;Vivre à Gémil;Vivre à Gémil;;;OUI;1;M;BAUDOU;Jean-Noël;Française;;
+31;Haute-Garonne;31217;Génos;1;GENOS, AUJOURD'HUI ET DEMAIN;GENOS, AUJOURD'HUI ET DEMAIN;;;OUI;1;M;CHAPOT;Denis;Française;;
+31;Haute-Garonne;31218;Gensac-de-Boulogne;1;GENSAC POUR TOUS;GENSAC POUR TOUS;;;OUI;1;M;SABATHE;Daniel;Française;;
+31;Haute-Garonne;31219;Gensac-sur-Garonne;1;GENSAC D'UN SEUL ELAN;GENSAC D'UN SEUL ELAN;;;OUI;1;F;PETAUT - JEAN;Sophie;Française;;
+31;Haute-Garonne;31220;Gibel;1;TOUS ENSEMBLE POUR GIBEL;TOUS ENSEMBLE POUR GIBEL;;;OUI;1;M;PEYRE;Roland;Française;;
+31;Haute-Garonne;31221;Gouaux-de-Larboust;1;ENSEMBLE POUR GOUAUX DE LARBOUST;ENSEMBLE POUR GOUAUX DE LARBOUST;;;OUI;1;M;ARROUS;Jean-Luc;Française;;
+31;Haute-Garonne;31221;Gouaux-de-Larboust;2;POUR GOUAUX-DE-LARBOUST, POUR LES AGUDES, POUR LA VALLEE;POUR GOUAUX-DE-LARBOUST, POUR LES AGUDES, POUR LA VALLEE;;;OUI;1;M;DE PECO;Serge;Française;;
+31;Haute-Garonne;31222;Gouaux-de-Luchon;1;GOUAUX;GOUAUX;;;OUI;1;M;PRINCE;Bernard;Française;;
+31;Haute-Garonne;31223;Goudex;1;ENSEMBLE POUR GOUDEX;ENSEMBLE POUR GOUDEX;;;OUI;1;M;MANAVIT;Laurent;Française;;
+31;Haute-Garonne;31224;Gourdan-Polignan;1;GOURDAN-POLIGNAN CONTINUONS ENSEMBLE;GOURDAN-POLIGNAN CONTINUONS ENSEMBLE;;;OUI;1;M;SAULNERON;Patrick;Française;;OUI
+31;Haute-Garonne;31224;Gourdan-Polignan;2;AGIR ENSEMBLE POUR GOURDAN-POLIGNAN;AGIR ENSEMBLE POUR GOURDAN-POLIGNAN;;;OUI;1;M;LARQUÉ;Serge;Française;;OUI
+31;Haute-Garonne;31225;Goutevernisse;1;VIVIRE ET FAIRE VIVRE GOUTEVERNISSE;VIVIRE ET FAIRE VIVRE GOUTEVERNISSE;;;OUI;1;M;DELCROIX;Bernard;Française;;
+31;Haute-Garonne;31226;Gouzens;1;GOUZENS EN COMMUN;GOUZENS EN COMMUN;;;OUI;1;F;NAYA;Anne-Marie;Française;;
+31;Haute-Garonne;31227;Goyrans;1;Ensemble continuons à agir pour Goyrans;Ensemble continuons à agir pour Goyrans;;;OUI;1;F;HAITCE;Véronique;Française;;
+31;Haute-Garonne;31227;Goyrans;2;Goyrans dynamique et responsable;Goyrans dynamique et responsable;;;OUI;1;M;ZANDONA;Laurent;Française;;
+31;Haute-Garonne;31228;Gragnague;1;POUR GRAGNAGUE AGIR DURABLEMENT;POUR GRAGNAGUE AGIR DURABLEMENT;;;OUI;1;M;CALAS;Daniel;Française;;OUI
+31;Haute-Garonne;31229;Gratens;1;ENSEMBLE POUR GRATENS;ENSEMBLE POUR GRATENS;;;OUI;1;M;DUTREY;Alain;Française;;
+31;Haute-Garonne;31230;Gratentour;1;GRATENOUR AUTREMENT!;GRATENOUR AUTREMENT!;LDVC;Liste divers centre;OUI;1;M;SONNENDRUCKER;Christophe;Française;;OUI
+31;Haute-Garonne;31230;Gratentour;2;Une ambition citoyenne et participative pour Gratentour 2026;Une ambition citoyenne et participative pour Gratentour 2026;LDVG;Liste divers gauche;OUI;1;M;CAMBOU;Alain;Française;;OUI
+31;Haute-Garonne;31231;Grazac;1;UNISSONS-NOUS POUR GRAZAC;UNISSONS-NOUS POUR GRAZAC;;;OUI;1;F;TORRES;Marilyne;Française;;
+31;Haute-Garonne;31232;Grenade;1;Tous unis pour Grenade et Saint Caprais;Tous unis pour Grenade et Saint Caprais;LDVG;Liste divers gauche;OUI;1;M;DELMAS;Jean-Paul;Française;;OUI
+31;Haute-Garonne;31232;Grenade;2;Dessinons Grenade Ensemble;Dessinons Grenade Ensemble;LDVG;Liste divers gauche;OUI;1;M;FLORES;Roger;Française;;OUI
+31;Haute-Garonne;31233;Grépiac;1;ESPRIT GREPIAC;ESPRIT GREPIAC;;;OUI;1;M;DURAND;Alain;Française;;OUI
+31;Haute-Garonne;31233;Grépiac;2;Pour l'Avenir de Grépiac;Pour l'Avenir de Grépiac;;;OUI;1;F;GABRIEL;Céline;Française;;OUI
+31;Haute-Garonne;31234;Le Grès;1;LE GRèS NOTRE VILLAGE;LE GRèS NOTRE VILLAGE;;;OUI;1;M;BARBREAU;Robert;Française;;
+31;Haute-Garonne;31235;Guran;1;GURAN DEMAIN;GURAN DEMAIN;;;OUI;1;M;BONNET;Patrice;Française;;
+31;Haute-Garonne;31235;Guran;2;BIEN VIVRE ENSEMBLE A GURAN;BIEN VIVRE ENSEMBLE A GURAN;;;OUI;1;M;MORA;Bernard;Française;;
+31;Haute-Garonne;31236;Herran;1;ENSEMBLE POUR HERRAN;ENSEMBLE POUR HERRAN;;;OUI;1;M;COURET;Michel;Française;;
+31;Haute-Garonne;31237;His;1;BIEN VIVRE A HIS;BIEN VIVRE A HIS;;;OUI;1;M;SAINT-MARTIN;Eric;Française;;
+31;Haute-Garonne;31238;Huos;1;VIVRE ET AGIR ENSEMBLE POUR HUOS;VIVRE ET AGIR ENSEMBLE POUR HUOS;;;OUI;1;M;PUIGDELLOSAS;Claude;Française;;
+31;Haute-Garonne;31239;L'Isle-en-Dodon;1;MIEUX VIVRE EN L'ISLE-EN-DODON;MIEUX VIVRE EN L'ISLE-EN-DODON;;;OUI;1;F;DENAX;Chantal;Française;;OUI
+31;Haute-Garonne;31239;L'Isle-en-Dodon;2;UNE EQUIPE, DES PROJETS, DES ACTIONS;UNE EQUIPE, DES PROJETS, DES ACTIONS;;;OUI;1;M;LATAPIE;Francis;Française;;OUI
+31;Haute-Garonne;31239;L'Isle-en-Dodon;3;POUR CONSTRUIRE L'AVENIR PARTAGE DE L'ISLE-EN-DODON;POUR CONSTRUIRE L'AVENIR PARTAGE DE L'ISLE-EN-DODON;;;OUI;1;M;ROUGÉ;Jean-Louis;Française;;OUI
+31;Haute-Garonne;31239;L'Isle-en-Dodon;4;L'ISLE, TERRITOIRE D'AVENIR;L'ISLE, TERRITOIRE D'AVENIR;;;OUI;1;M;PAULINO;Philippe;Française;;OUI
+31;Haute-Garonne;31240;Issus;1;Issus l'esprit village;Issus l'esprit village;;;OUI;1;M;CAUBET;Bruno;Française;;
+31;Haute-Garonne;31241;Izaut-de-l'Hôtel;1;AGIR POUR IZAUT;AGIR POUR IZAUT;;;OUI;1;M;DUFFAUT;Christophe;Française;;
+31;Haute-Garonne;31242;Jurvielle;1;JURVIELLE;JURVIELLE;;;OUI;1;M;TINE;Christophe;Française;;
+31;Haute-Garonne;31243;Juzes;1;JUZES ENSEMBLE;JUZES ENSEMBLE;;;OUI;1;M;JONQUIERES;Vincent;Française;;
+31;Haute-Garonne;31244;Juzet-de-Luchon;1;JUZET DE LUCHON A VENIR;JUZET DE LUCHON A VENIR;;;OUI;1;M;LAFONTAN;Alain;Française;;
+31;Haute-Garonne;31245;Juzet-d'Izaut;1;ENSEMBLE POUR JUZET;ENSEMBLE POUR JUZET;;;OUI;1;M;CHANET;Max;Française;;
+31;Haute-Garonne;31245;Juzet-d'Izaut;2;FAISONS VIVRE JUZET ENSEMBLE;FAISONS VIVRE JUZET ENSEMBLE;;;OUI;1;F;ORDRONNEAU;Florise;Française;;
+31;Haute-Garonne;31246;Labarthe-Inard;1;VIVRE ENSEMBLE A  LABARTHE-INARD;VIVRE ENSEMBLE A LABARTHE-INARD;;;OUI;1;M;ADER;Christian;Française;;
+31;Haute-Garonne;31247;Labarthe-Rivière;1;UNE EQUIPE DES PROJETS POUR LABARTHE RIVIERE;UNE EQUIPE DES PROJETS POUR LABARTHE RIVIERE;;;OUI;1;F;VOUGNY;Claire;Française;;OUI
+31;Haute-Garonne;31248;Labarthe-sur-Lèze;1;LABARTHE ENSEMBLE;LABARTHE ENSEMBLE;LDVC;Liste divers centre;OUI;1;M;LAMPE;Jeremie;Française;;OUI
+31;Haute-Garonne;31248;Labarthe-sur-Lèze;2;AIMER LABARTHE;AIMER LABARTHE;LDVG;Liste divers gauche;OUI;1;M;CARLIER;David;Française;;OUI
+31;Haute-Garonne;31249;Labastide-Beauvoir;1;Labastide Beauvoir Solidaire et Bienveillante;Labastide Beauvoir Solidaire et Bienveillante;;;OUI;1;F;FAURÉ;Estelle;Française;;OUI
+31;Haute-Garonne;31249;Labastide-Beauvoir;2;ENSEMBLE, POURSUIVONS L'ÉLAN;ENSEMBLE, POURSUIVONS L'ÉLAN;;;OUI;1;F;OUCHENE;Mélanie;Française;;OUI
+31;Haute-Garonne;31249;Labastide-Beauvoir;3;BIEN VIVRE A LABASTIDE-BEAUVOIR;BIEN VIVRE A LABASTIDE-BEAUVOIR;;;OUI;1;M;MARIN;Thomas;Française;;OUI
+31;Haute-Garonne;31250;Labastide-Clermont;1;L'EXPERIENCE AU SERVICE DE LABASTIDE;L'EXPERIENCE AU SERVICE DE LABASTIDE;;;OUI;1;M;DINTILHAC;Pierre-Alain;Française;;
+31;Haute-Garonne;31251;Labastide-Paumès;1;CONTINUONS TOUS ENSEMBLE;CONTINUONS TOUS ENSEMBLE;;;OUI;1;F;BRUMAS;Catherine;Française;;
+31;Haute-Garonne;31252;Labastide-Saint-Sernin;1;ENSEMBLE POUR LABASTIDE;ENSEMBLE POUR LABASTIDE;;;OUI;1;F;GEORGES-PILON;Anne-Sophie;Française;;OUI
+31;Haute-Garonne;31253;Labastidette;1;"UNIS POUR LABASTIDETTE ""Toujours proches, toujours engagés""";"UNIS POUR LABASTIDETTE ""Toujours proches, toujours engagés""";;;OUI;1;M;AUTHIÉ;Olivier;Française;;OUI
+31;Haute-Garonne;31253;Labastidette;2;LABASTIDETTE, AVEC VOUS ET POUR VOUS;LABASTIDETTE, AVEC VOUS ET POUR VOUS;;;OUI;1;M;MARTINON;Philippe;Française;;OUI
+31;Haute-Garonne;31254;Labège;1;Vivons Labège Ensemble;Vivons Labège Ensemble;LDVG;Liste divers gauche;OUI;1;M;CHÉRUBIN;Laurent;Française;;OUI
+31;Haute-Garonne;31255;Labroquère;1;ENSEMBLE NOUS SOMMES LABROQUERE;ENSEMBLE NOUS SOMMES LABROQUERE;;;OUI;1;M;LARQUÉ;Alain;Française;;
+31;Haute-Garonne;31256;Labruyère-Dorsa;1;Ensemble pour Labruyere;Ensemble pour Labruyere;;;OUI;1;M;GODEFROY;Julien;Française;;
+31;Haute-Garonne;31258;Lacaugne;1;vivre ensemble a lacaugne;vivre ensemble a lacaugne;;;OUI;1;F;BARALE;Marlène;Française;;
+31;Haute-Garonne;31259;Lacroix-Falgarde;1;Bien Vivre @ Lacroix-Falgarde;Bien Vivre @ Lacroix-Falgarde;;;OUI;1;M;CARNAROLI;Bruno;Française;;OUI
+31;Haute-Garonne;31260;Laffite-Toupière;1;BIEN VIVRE ENSEMBLE A LAFFITE-TOUPIERE;BIEN VIVRE ENSEMBLE A LAFFITE-TOUPIERE;;;OUI;1;M;ROUBICHOU;Jean-Claude;Française;;
+31;Haute-Garonne;31261;Lafitte-Vigordane;1;Lafitte Vigordane Notre Force Notre Avenir;Lafitte Vigordane Notre Force Notre Avenir;;;OUI;1;F;BRUN;Karine;Française;;OUI
+31;Haute-Garonne;31262;Lagarde;1;Lagarde au coeur, pour un village solidaire et dynamique;Lagarde au coeur, pour un village solidaire et dynamique;;;OUI;1;F;PEIRO-FOURNIER;Marielle;Française;;
+31;Haute-Garonne;31263;Lagardelle-sur-Lèze;1;agissons ensemble pour lagardelle;agissons ensemble pour lagardelle;;;OUI;1;F;JOACHIM;Hélène;Française;;OUI
+31;Haute-Garonne;31263;Lagardelle-sur-Lèze;2;Ensemble tissons des liens pour Lagardelle;Ensemble tissons des liens pour Lagardelle;;;OUI;1;M;LONGIN;Sébastien Frédéric Johan;Française;;OUI
+31;Haute-Garonne;31264;Lagrâce-Dieu;1;VIVRE ET AGIR A LAGRACE DIEU;VIVRE ET AGIR A LAGRACE DIEU;;;OUI;1;M;CAZAJUS;Joël;Française;;
+31;Haute-Garonne;31265;Lagraulet-Saint-Nicolas;1;Ensemble pour Lagraulet Saint Nicolas;Ensemble pour Lagraulet Saint Nicolas;;;OUI;1;F;SENOCQ;Christine;Française;;
+31;Haute-Garonne;31266;Lahage;1;bien vivre a Lahage;bien vivre a Lahage;;;OUI;1;M;FRAYSSINHES;Christian;Française;;
+31;Haute-Garonne;31267;Lahitère;1;Ensemble pour lahitère;Ensemble pour lahitère;;;OUI;1;F;BLANC;Laurence;Française;;
+31;Haute-Garonne;31268;Lalouret-Laffiteau;1;LISTE D'UNION;LISTE D'UNION;;;OUI;1;M;NAVAS;Sébastien;Française;;
+31;Haute-Garonne;31269;Lamasquère;1;asquere unis pour la commune;asquere unis pour la commune;;;OUI;1;F;MATHEU;Christelle;Française;;OUI
+31;Haute-Garonne;31269;Lamasquère;2;BIEN VIVRE A LAMASQUERE;BIEN VIVRE A LAMASQUERE;;;OUI;1;M;BOY;Dimitri;Française;;OUI
+31;Haute-Garonne;31270;Landorthe;1;UNIS PAR L'EXPERIENCE, TOURNES VERS L'AVENIR;UNIS PAR L'EXPERIENCE, TOURNES VERS L'AVENIR;;;OUI;1;F;CORTINAS;Lucienne;Française;;OUI
+31;Haute-Garonne;31271;Lanta;1;UN NOUVEL ÉLAN POUR LANTA;UN NOUVEL ÉLAN POUR LANTA;;;OUI;1;F;RANC;Florence;Française;;OUI
+31;Haute-Garonne;31271;Lanta;2;TOUTES ET TOUS LANTANAIS;TOUTES ET TOUS LANTANAIS;;;OUI;1;M;DIAZ;Rémi;Française;;OUI
+31;Haute-Garonne;31271;Lanta;3;ENGAGÉS POUR LANTA, TOURNÉS VERS L'AVENIR;ENGAGÉS POUR LANTA, TOURNÉS VERS L'AVENIR;;;OUI;1;M;MENGAUD;Marc;Française;;OUI
+31;Haute-Garonne;31272;Lapeyrère;1;liste communale;liste communale;;;OUI;1;M;BUC;Christophe;Française;;
+31;Haute-Garonne;31273;Lapeyrouse-Fossat;1;CONTINUER D'AGIR POUR LAPEYROUSE-FOSSAT;CONTINUER D'AGIR POUR LAPEYROUSE-FOSSAT;;;OUI;1;M;BRESSAND;Eric;Française;;OUI
+31;Haute-Garonne;31273;Lapeyrouse-Fossat;2;Lapeyrouse-Fossat ensemble;Lapeyrouse-Fossat ensemble;;;OUI;1;M;VASSAL;Eric;Française;;OUI
+31;Haute-Garonne;31274;Larcan;1;CONTINUONS ENSEMBLE;CONTINUONS ENSEMBLE;;;OUI;1;M;FOURMENT;Henri;Française;;
+31;Haute-Garonne;31274;Larcan;2;LARCAN : VILLAGE AUTHENTIQUE;LARCAN : VILLAGE AUTHENTIQUE;;;OUI;1;F;GARDIEN;Marina;Française;;
+31;Haute-Garonne;31275;Laréole;1;Unis pour LAREOLE;Unis pour LAREOLE;;;OUI;1;M;GAUTHE;Fabien;Française;;
+31;Haute-Garonne;31276;Larroque;1;Ensemble pour l'avenir de LARROQUE;Ensemble pour l'avenir de LARROQUE;;;OUI;1;M;RENON;Jean-Louis;Française;;
+31;Haute-Garonne;31277;Lasserre-Pradère;1;PRENDRE SOIN DE NOTRE COMMUNE;PRENDRE SOIN DE NOTRE COMMUNE;;;OUI;1;M;GAUTHIER;Maxime;Française;;OUI
+31;Haute-Garonne;31278;Latoue;1;LATOUE CONTINUONS ENSEMBLE;LATOUE CONTINUONS ENSEMBLE;;;OUI;1;M;BOSC;Pierre;Française;;
+31;Haute-Garonne;31279;Latour;1;LATOUR 2026;LATOUR 2026;;;OUI;1;F;MENER;Emilie;Française;;
+31;Haute-Garonne;31280;Latrape;1;VIVRE ENSEMBLE;VIVRE ENSEMBLE;;;OUI;1;M;NAYLIES;Charles;Française;;
+31;Haute-Garonne;31281;Launac;1;L'avenir s'écrit ensemble à Launac-Galembrun;L'avenir s'écrit ensemble à Launac-Galembrun;;;OUI;1;M;ALARCON;Nicolas;Française;;OUI
+31;Haute-Garonne;31282;Launaguet;1;UNIS POUR LAUNAGUET;UNIS POUR LAUNAGUET;LDVD;Liste divers droite;OUI;1;M;DENEUVILLE;Georges;Française;;OUI
+31;Haute-Garonne;31282;Launaguet;2;Launaguet nature et citoyenne;Launaguet nature et citoyenne;LECO;Liste écologiste;OUI;1;M;RENARD;Patrice;Française;;OUI
+31;Haute-Garonne;31282;Launaguet;3;S'ENGAGER POUR LAUNAGUET OUVERTE, CRÉATIVE, RESPONSABLE;S'ENGAGER POUR LAUNAGUET OUVERTE, CRÉATIVE, RESPONSABLE;LUG;Liste d'union à gauche;OUI;1;F;FARCY;Marie-Claude;Française;;OUI
+31;Haute-Garonne;31283;Lautignac;1;ENSEMBLE POUR LAUTIGNAC;ENSEMBLE POUR LAUTIGNAC;;;OUI;1;M;BOUCHARD;Laurent;Française;;
+31;Haute-Garonne;31284;Lauzerville;1;Vivre Lauzerville;Vivre Lauzerville;;;OUI;1;M;MOGICATO;Bruno;Française;;OUI
+31;Haute-Garonne;31285;Lavalette;1;Agir pour vous, décider autrement;Agir pour vous, décider autrement;;;OUI;1;M;GOMEZ;Didier;Française;;
+31;Haute-Garonne;31285;Lavalette;2;AVEC VOUS POUR DEMAIN;AVEC VOUS POUR DEMAIN;;;OUI;1;M;ROUSTIT;Jean-Denis;Française;;
+31;Haute-Garonne;31286;Lavelanet-de-Comminges;1;lavelanet au coeur;lavelanet au coeur;;;OUI;1;F;SOLER EPOUSE PORQUERAS;Carole;Française;;
+31;Haute-Garonne;31287;Lavernose-Lacasse;1;UNE VILLE QUI AVANCE ET QUI RASSEMBLE;UNE VILLE QUI AVANCE ET QUI RASSEMBLE;LDVC;Liste divers centre;OUI;1;M;DELSOL;Alain;Française;;OUI
+31;Haute-Garonne;31288;Layrac-sur-Tarn;1;Cultivons l'avenir pour Layrac;Cultivons l'avenir pour Layrac;;;OUI;1;M;ASTRUC;Thierry;Française;;
+31;Haute-Garonne;31289;Lécussan;1;LECUSSAN VIVRE ET GRANDIR;LECUSSAN VIVRE ET GRANDIR;;;OUI;1;M;RECURT;Philippe;Française;;
+31;Haute-Garonne;31289;Lécussan;2;UNIS POUR LECUSSAN;UNIS POUR LECUSSAN;;;OUI;1;M;MALET;Bernard;Française;;
+31;Haute-Garonne;31290;Lège;1;ENSEMBLE POUR LEGE;ENSEMBLE POUR LEGE;;;OUI;1;M;MARTIN;François;Française;;
+31;Haute-Garonne;31291;Léguevin;1;Agir à Léguevin;Agir à Léguevin;LDVC;Liste divers centre;OUI;1;M;MÉRAULT;Jean-Luc;Française;;OUI
+31;Haute-Garonne;31291;Léguevin;2;Etienne Cardeilhac-Pugens Léguevin avec Vous;Etienne Cardeilhac-Pugens Léguevin avec Vous;LDIV;Liste Divers;OUI;1;M;CARDEILHAC-PUGENS;Étienne;Française;;OUI
+31;Haute-Garonne;31291;Léguevin;3;Léguevin en commun;Léguevin en commun;LDVG;Liste divers gauche;OUI;1;M;MARQUIE;Eric;Française;;OUI
+31;Haute-Garonne;31292;Lescuns;1;BIEN VIVRE A LESCUNS;BIEN VIVRE A LESCUNS;;;OUI;1;M;DANGLA;Jean;Française;;
+31;Haute-Garonne;31293;Lespinasse;1;CAP LESPINASSE;CAP LESPINASSE;;;OUI;1;F;GARGADENNEC;Nathalie;Française;;OUI
+31;Haute-Garonne;31294;Lespiteau;1;CONTINUONS VERS L'AVENIR;CONTINUONS VERS L'AVENIR;;;OUI;1;M;DUPUY;Jérôme;Française;;
+31;Haute-Garonne;31295;Lespugue;1;AVANCONS ENSEMBLE AVEC SERENITE;AVANCONS ENSEMBLE AVEC SERENITE;;;OUI;1;M;FOIX;Jean-François;Française;;
+31;Haute-Garonne;31296;Lestelle-de-Saint-Martory;1;AGIR ENSEMBLE POUR LESTELLE;AGIR ENSEMBLE POUR LESTELLE;;;OUI;1;M;LASSERRE;Alain;Française;;
+31;Haute-Garonne;31297;Lévignac;1;Engagés pour Lévignac!;Engagés pour Lévignac!;;;OUI;1;M;CHARPENTIER;Stéphane;Française;;OUI
+31;Haute-Garonne;31299;Lherm;1;AGIR ENSEMBLE;AGIR ENSEMBLE;LDVG;Liste divers gauche;OUI;1;M;PASIAN;Frédéric;Française;;OUI
+31;Haute-Garonne;31300;Lieoux;1;UNIS POUR L'AVENIR;UNIS POUR L'AVENIR;;;OUI;1;M;BARUTAUT;Alain;Française;;
+31;Haute-Garonne;31301;Lilhac;1;CONTINUONS ENSEMBLE;CONTINUONS ENSEMBLE;;;OUI;1;M;SIOUTAC;Gilbert;Française;;
+31;Haute-Garonne;31301;Lilhac;2;LILHAC AU QUOTIEN;LILHAC AU QUOTIEN;;;OUI;1;F;BOURGAIN;Sandrine;Française;;
+31;Haute-Garonne;31302;Lodes;1;LODES DE DEMAIN;LODES DE DEMAIN;;;OUI;1;F;KARAMANIDES;Sylvie;Française;;
+31;Haute-Garonne;31302;Lodes;2;BIEN VIVRE A LODES;BIEN VIVRE A LODES;;;OUI;1;F;BERREBI;Véronique;Française;;
+31;Haute-Garonne;31303;Longages;1;LONGAGES VOTRE VILLAGE;LONGAGES VOTRE VILLAGE;;;OUI;1;M;DALLARD;Jean-Michel;Française;;OUI
+31;Haute-Garonne;31303;Longages;2;dialogue citoyen pour longages;dialogue citoyen pour longages;;;OUI;1;M;RACIONERO;Jérémy;Française;;OUI
+31;Haute-Garonne;31304;Loubens-Lauragais;1;LOUBENS 2026;LOUBENS 2026;;;OUI;1;M;FERLICOT;Laurent;Française;;
+31;Haute-Garonne;31305;Loudet;1;ENSEMBLE POUR LOUDET;ENSEMBLE POUR LOUDET;;;OUI;1;M;BREESE;Nicholas;Française;;
+31;Haute-Garonne;31306;Lourde;1;VIVRE A LOURDE;VIVRE A LOURDE;;;OUI;1;M;CARCY;Olivier;Française;;
+31;Haute-Garonne;31306;Lourde;2;AGIR POUR LOURDE, ENSEMBLE!;AGIR POUR LOURDE, ENSEMBLE!;;;OUI;1;F;CHERON;Evelyne;Française;;
+31;Haute-Garonne;31308;Luscan;1;ENSEMBLE POUR LUSCAN;ENSEMBLE POUR LUSCAN;;;OUI;1;F;CASTEX;Marie-Thérèse;Française;;
+31;Haute-Garonne;31309;Lussan-Adeilhac;1;AGIR ENSEMBLE POUR LUSSAN-ADEILHAC;AGIR ENSEMBLE POUR LUSSAN-ADEILHAC;;;OUI;1;M;SAINT-BLANCAT;Guy;Française;;
+31;Haute-Garonne;31310;Lux;1;Ensemble et Responsable;Ensemble et Responsable;;;OUI;1;M;BRESSOLLES;Pierre;Française;;
+31;Haute-Garonne;31311;La Magdelaine-sur-Tarn;1;ENSEMBLE POUR LA MAGDELAINE;ENSEMBLE POUR LA MAGDELAINE;;;OUI;1;M;JOUVE;Denis;Française;;OUI
+31;Haute-Garonne;31311;La Magdelaine-sur-Tarn;2;La Magdelaine sur Tarn, notre village;La Magdelaine sur Tarn, notre village;;;OUI;1;F;RAYNAUD;Nathalie;Française;;OUI
+31;Haute-Garonne;31311;La Magdelaine-sur-Tarn;3;LA MAGDELAINE POUR TOUS;LA MAGDELAINE POUR TOUS;;;OUI;1;F;GAYRAUD;Isabelle;Française;;OUI
+31;Haute-Garonne;31312;Mailholas;1;ENSEMBLE POUR MAILHOLAS;ENSEMBLE POUR MAILHOLAS;;;OUI;1;M;CAZAUX;Jean-Michel;Française;;
+31;Haute-Garonne;31313;Malvezie;1;POUR MALVEZIE;POUR MALVEZIE;;;OUI;1;M;SANS;Stéphane;Française;;
+31;Haute-Garonne;31314;Mancioux;1;VIVRE ENSEMBLE A MANCIOUX;VIVRE ENSEMBLE A MANCIOUX;;;OUI;1;M;GOIZET;Henri;Française;;
+31;Haute-Garonne;31315;Mane;1;MANE GENERATION 2026;MANE GENERATION 2026;;;OUI;1;F;GUALTER;Marie-Christine;Française;;
+31;Haute-Garonne;31316;Marignac;1;NOTRE PARTI C'EST MARIGNAC;NOTRE PARTI C'EST MARIGNAC;;;OUI;1;M;CAMPAGNE;André;Française;;
+31;Haute-Garonne;31316;Marignac;2;MARIGNAC AU COEUR DE NOS VALEURS;MARIGNAC AU COEUR DE NOS VALEURS;;;OUI;1;F;BENCHALAL GALOPIN;Séverine;Française;;
+31;Haute-Garonne;31316;Marignac;3;EN  CAMPAGNE POUR MARIGNAC;EN  CAMPAGNE POUR MARIGNAC;;;OUI;1;F;BERKOUK;Yasmina;Française;;
+31;Haute-Garonne;31317;Marignac-Lasclares;1;MARIGNAC-LASCLARES AVENIR;MARIGNAC-LASCLARES AVENIR;;;OUI;1;M;AGBOTON;Anicet;Française;;
+31;Haute-Garonne;31318;Marignac-Laspeyres;1;UN VILLAGE QUI NOUS RASSEMBLE;UN VILLAGE QUI NOUS RASSEMBLE;;;OUI;1;M;LASSERRE;Jean-Luc;Française;;
+31;Haute-Garonne;31319;Marliac;1;Bien vivre a Marliac;Bien vivre a Marliac;;;OUI;1;F;PAUBERT;Geneviève;Française;;
+31;Haute-Garonne;31320;Marquefave;1;MARQUEFAVE DEMAIN;MARQUEFAVE DEMAIN;;;OUI;1;F;SALADO;Anne-Marie;Française;;
+31;Haute-Garonne;31320;Marquefave;2;MARQUEFAVE;MARQUEFAVE;;;OUI;1;F;SARR;Jacqueline;Française;;
+31;Haute-Garonne;31321;Marsoulas;1;ENSEMBLE POUR MARSOULAS;ENSEMBLE POUR MARSOULAS;;;OUI;1;M;ADER;Alexandre;Française;;
+31;Haute-Garonne;31322;Martisserre;1;ENSEMBLE PERSEVERONS POUR UNE RURALITE CONVIVIALE;ENSEMBLE PERSEVERONS POUR UNE RURALITE CONVIVIALE;;;OUI;1;F;CAZENEUVE;Nicole;Française;;
+31;Haute-Garonne;31323;Martres-de-Rivière;1;MARTRES DYNAMIQUE RASSEMBLE;MARTRES DYNAMIQUE RASSEMBLE;;;OUI;1;M;FARAMOND;Gérard;Française;;
+31;Haute-Garonne;31324;Martres-Tolosane;1;MARTRES ENSEMBLE 2026;MARTRES ENSEMBLE 2026;;;OUI;1;M;GOJARD;Loic;Française;;OUI
+31;Haute-Garonne;31324;Martres-Tolosane;2;Martres Unis 2026;Martres Unis 2026;;;OUI;1;F;HIPPOLYTE;Brigitte;Française;;OUI
+31;Haute-Garonne;31325;Mascarville;1;Liste de Défense des Intérêts communaux;Liste de Défense des Intérêts communaux;;;OUI;1;M;CAZENEUVE;Serge;Française;;
+31;Haute-Garonne;31326;Massabrac;1;L'Avenir de Masssabrac Ensemble;L'Avenir de Massabrac Ensemble;;;OUI;1;M;GAY;Jean-Louis;Française;;
+31;Haute-Garonne;31327;Mauran;1;MAURAN EN MOUVEMENT;MAURAN EN MOUVEMENT;;;OUI;1;M;ROSTAING;Nicolas;Française;;
+31;Haute-Garonne;31327;Mauran;2;MAURAN, TOUS ENSEMBLE;MAURAN, TOUS ENSEMBLE;;;OUI;1;M;RIBET;Kévin;Française;;
+31;Haute-Garonne;31328;Mauremont;1;Construire l'avenir ensemble;Construire l'avenir ensemble;;;OUI;1;F;LATCHÉ;Catherine;Française;;
+31;Haute-Garonne;31329;Maurens;1;Bien vivre ensemble à Maurens;Bien vivre ensemble à Maurens;;;OUI;1;F;PASTRE;Marie;Française;;
+31;Haute-Garonne;31330;Mauressac;1;Avenir Mauressac;Avenir Mauressac;;;OUI;1;M;PASQUET;Wilfrid;Française;;
+31;Haute-Garonne;31331;Maureville;1;ensemble pour maureville;ensemble pour maureville;;;OUI;1;M;CROUX;Christian;Française;;
+31;Haute-Garonne;31332;Mauvaisin;1;ENSEMBLE POUR NOTRE VILLAGE;ENSEMBLE POUR NOTRE VILLAGE;;;OUI;1;M;NICOLAS;Marc;Française;;
+31;Haute-Garonne;31333;Mauvezin;1;TOUS POUR MAUVEZIN;TOUS POUR MAUVEZIN;;;OUI;1;M;PLANTE;Thierry;Française;;
+31;Haute-Garonne;31334;Mauzac;1;Ensemble pour Mauzac;Ensemble pour Mauzac;;;OUI;1;M;SALAT;Eric;Française;;OUI
+31;Haute-Garonne;31335;Mayrègne;1;VIVONS MAYREGNE;VIVONS MAYREGNE;;;OUI;1;F;JAMMETTE;Solange;Française;;
+31;Haute-Garonne;31336;Mazères-sur-Salat;1;UNIS POUR MAZERES;UNIS POUR MAZERES;;;OUI;1;F;VILLARDI;Florence;Française;;
+31;Haute-Garonne;31337;Melles;1;ENSEMBLE MELLES 2026;ENSEMBLE MELLES 2026;;;OUI;1;F;FOURQUET;Pascale;Française;;
+31;Haute-Garonne;31337;Melles;2;AGIR POUR MELLES;AGIR POUR MELLES;;;OUI;1;M;DUBOIS;Alban;Française;;
+31;Haute-Garonne;31338;Menville;1;Faisons vivre Menville;Faisons vivre Menville;;;OUI;1;F;FOURCADE;Marie-Luce;Française;;
+31;Haute-Garonne;31339;Mérenvielle;1;Ensemble pour Mérenvielle;Ensemble pour Mérenvielle;;;OUI;1;M;REGNARD;Armand;Française;;
+31;Haute-Garonne;31340;Mervilla;1;Ensemble pour Mervilla;Ensemble pour Mervilla;;;OUI;1;M;LOUBET;Denis;Française;;
+31;Haute-Garonne;31340;Mervilla;2;MERVILLA NOUVELLE ÉNERGIE;MERVILLA NOUVELLE ÉNERGIE;;;OUI;1;M;CALVET;Bernard;Française;;
+31;Haute-Garonne;31341;Merville;1;MERVILLE EN VRAI;MERVILLE EN VRAI;LDVD;Liste divers droite;OUI;1;F;OGRODNIK;Patricia;Française;;OUI
+31;Haute-Garonne;31341;Merville;2;Merville avec vous;Merville avec vous;LDIV;Liste Divers;OUI;1;F;AYGAT;Chantal;Française;;OUI
+31;Haute-Garonne;31342;Milhas;1;Ensemble pour Milhas;Ensemble pour Milhas;;;OUI;1;F;SAINT-PAUL;Eveline;Française;;
+31;Haute-Garonne;31343;Mirambeau;1;ENSEMBLE POUR MIRAMBEAU;ENSEMBLE POUR MIRAMBEAU;;;OUI;1;F;MARTIN;Sandrine;Française;;
+31;Haute-Garonne;31344;Miramont-de-Comminges;1;UNIS POUR MIRAMONT-DE-COMMINGES;UNIS POUR MIRAMONT-DE-COMMINGES;;;OUI;1;F;VIGNEAUX;Laure;Française;;
+31;Haute-Garonne;31345;Miremont;1;Miremont avec vous;Miremont avec vous;;;OUI;1;M;DIDIER;Claude;Française;;OUI
+31;Haute-Garonne;31346;Mirepoix-sur-Tarn;1;Demain Mirepoix sur pont;Demain Mirepoix sur pont;;;OUI;1;F;BLANCHARD ESSNER;Sonia;Française;;OUI
+31;Haute-Garonne;31347;Molas;1;MOLAS ENSEMBLE;MOLAS ENSEMBLE;;;OUI;1;M;PERIER;Michel;Française;;
+31;Haute-Garonne;31348;Moncaup;1;ENSEMBLE POUR MONCAUP;ENSEMBLE POUR MONCAUP;;;OUI;1;M;CAYRE;Laurent;Française;;
+31;Haute-Garonne;31349;Mondavezan;1;liste d'entente pour le maintien des intérêts communaux;liste d'entente pour le maintien des intérêts communaux;;;OUI;1;M;COSTE;André;Française;;
+31;Haute-Garonne;31350;Mondilhan;1;LISTE POUR LA DEFENSE DES INTERETS COMMUNAUX;LISTE POUR LA DEFENSE DES INTERETS COMMUNAUX;;;OUI;1;M;GASPARD;Joseph;Française;;
+31;Haute-Garonne;31350;Mondilhan;2;Unité et Diversité pour les Mondilhannais;Unité et Diversité pour les Mondilhannais;;;OUI;1;F;GILLOUX;Christelle;Française;;
+31;Haute-Garonne;31351;Mondonville;1;Rassemblement pour Mondonville;Rassemblement pour Mondonville;LRN;Liste du Rassemblement National;OUI;1;M;BROSED;Christophe;Française;;OUI
+31;Haute-Garonne;31351;Mondonville;2;Agir pour Mondonville;Agir pour Mondonville;LDIV;Liste Divers;OUI;1;M;DEVISE;Philippe;Française;;OUI
+31;Haute-Garonne;31351;Mondonville;3;MONDONVILLE EN MOUVEMENT;MONDONVILLE EN MOUVEMENT;LDIV;Liste Divers;OUI;1;F;BARRAQUÉ ONNO;Véronique;Française;;OUI
+31;Haute-Garonne;31352;Mondouzil;1;ENSEMBLE POUR MONDOUZIL;ENSEMBLE POUR MONDOUZIL;;;OUI;1;M;MEDINA;Robert;Française;;
+31;Haute-Garonne;31353;Monès;1;EN AVANT POUR MONES;EN AVANT POUR MONES;;;OUI;1;M;GALEY;Cédric;Française;;
+31;Haute-Garonne;31354;Monestrol;1;Monestrol 2026;Monestrol 2026;;;OUI;1;M;RIAL;Guilhem;Française;;
+31;Haute-Garonne;31355;Mons;1;Ensemble pour Mons;Ensemble pour Mons;;;OUI;1;M;PROUST;Bernard;Française;;OUI
+31;Haute-Garonne;31356;Montaigut-sur-Save;1;Vivre ensemble à Montaigut sur Save;Vivre ensemble à Montaigut sur Save;;;OUI;1;M;CODINE;François;Française;;OUI
+31;Haute-Garonne;31357;Montastruc-de-Salies;1;UNIS POUR MONTASTRUC DE SALIES;UNIS POUR MONTASTRUC DE SALIES;;;OUI;1;F;MONTEGUT;Véronique;Française;;
+31;Haute-Garonne;31358;Montastruc-la-Conseillère;1;MONTASTRUC C'EST VOUS;MONTASTRUC C'EST VOUS;LDIV;Liste Divers;OUI;1;M;CAPEL;Jean-Baptiste;Française;;OUI
+31;Haute-Garonne;31359;Montastruc-Savès;1;ENSEMBLE POUR MONTASTRUC-SAVES;ENSEMBLE POUR MONTASTRUC-SAVES;;;OUI;1;M;LARRIEU;Joël;Française;;
+31;Haute-Garonne;31360;Montauban-de-Luchon;1;MONTAUBAN-DE-LUCHON, L'ESPRIT VILLAGE;MONTAUBAN-DE-LUCHON, L'ESPRIT VILLAGE;;;OUI;1;M;BASELGA;Jean-François;Française;;
+31;Haute-Garonne;31361;Montaut;1;MONTAUT, ENSEMBLE AU COEUR DE NOTRE TERRITOIRE;MONTAUT, ENSEMBLE AU COEUR DE NOTRE TERRITOIRE;;;OUI;1;M;VIEL;Pierre;Française;;
+31;Haute-Garonne;31362;Montberaud;1;VIVRE MONTBERAUD ENSEMBLE;VIVRE MONTBERAUD ENSEMBLE;;;OUI;1;M;DENJEAN;Raymond;Française;;
+31;Haute-Garonne;31363;Montbernard;1;ENSEMBLE POUR MONTBERNARD;ENSEMBLE POUR MONTBERNARD;;;OUI;1;M;COUMES;Pascal;Française;;
+31;Haute-Garonne;31364;Montberon;1;Ensemble, cultivons l'avenir;Ensemble, cultivons l'avenir;;;OUI;1;M;SAVIGNY;Thierry;Française;;OUI
+31;Haute-Garonne;31364;Montberon;2;OBJECTIF CHOISIR;OBJECTIF CHOISIR;;;OUI;1;F;PASTOR;Carol;Française;;OUI
+31;Haute-Garonne;31365;Montbrun-Bocage;1;avec vous;avec vous;;;OUI;1;F;SEGUELA;Lucie;Française;;
+31;Haute-Garonne;31366;Montbrun-Lauragais;1;Montbrun 2026;Montbrun 2026;;;OUI;1;M;BERNADBEROY;Marc;Française;;
+31;Haute-Garonne;31367;Montclar-de-Comminges;1;Préservons notre terre;Préservons notre terre;;;OUI;1;M;LAFFAGE;Philippe;Française;;
+31;Haute-Garonne;31367;Montclar-de-Comminges;2;VIVRE ENSEMBLE A MONTCLAR;VIVRE ENSEMBLE A MONTCLAR;;;OUI;1;F;SALAS;Cécile;Française;;
+31;Haute-Garonne;31368;Montclar-Lauragais;1;Montclar ensemble;Montclar ensemble;;;OUI;1;M;LABATUT;David;Française;;
+31;Haute-Garonne;31369;Mont-de-Galié;1;CONTINUONS ENSEMBLE;CONTINUONS ENSEMBLE;;;OUI;1;F;LAYUS-COUSTET;Daniele;Française;;
+31;Haute-Garonne;31370;Montégut-Bourjac;1;MONTEGUT BOURJAC POUR TOUS;MONTEGUT BOURJAC POUR TOUS;;;OUI;1;F;DUFFORT-PIQUES;Régina;Française;;
+31;Haute-Garonne;31371;Montégut-Lauragais;1;Vivons ensemble Montégut-Lauragais;Vivons ensemble Montégut-Lauragais;;;OUI;1;M;BARBASTE;Philippe;Française;;
+31;Haute-Garonne;31371;Montégut-Lauragais;2;Un nouveau souffle pour notre village;Un nouveau souffle pour notre village;;;OUI;1;M;CAMPOS;Pascal;Française;;
+31;Haute-Garonne;31372;Montespan;1;MONTESPAN 2026 : FORCE DETERMINATION ET COMBATIVITE;MONTESPAN 2026 : FORCE DETERMINATION ET COMBATIVITE;;;OUI;1;F;LLORENS;Marie-Christine;Française;;
+31;Haute-Garonne;31373;Montesquieu-Guittaut;1;BIEN VIVRE ENSEMBLE A MONTESQUIEU GUITTAUT;BIEN VIVRE ENSEMBLE A MONTESQUIEU GUITTAUT;;;OUI;1;M;CASTEX;David;Française;;
+31;Haute-Garonne;31374;Montesquieu-Lauragais;1;Ensemble pour Montesquieu;Ensemble pour Montesquieu;;;OUI;1;M;MAHCER;Abdelrani;Française;;OUI
+31;Haute-Garonne;31375;Montesquieu-Volvestre;1;AGIR POUR UN AVENIR COMMUN;AGIR POUR UN AVENIR COMMUN;;;OUI;1;M;BIENVENU;Frédéric;Française;;OUI
+31;Haute-Garonne;31376;Montgaillard-de-Salies;1;MONTGAILLARD POUR TOUS;MONTGAILLARD POUR TOUS;;;OUI;1;F;DUCHEIN;Sylvie;Française;;
+31;Haute-Garonne;31377;Montgaillard-Lauragais;1;Ensemble pour l'avenir de Montgaillard-Lauragais;Ensemble pour l'avenir de Montgaillard-Lauragais;;;OUI;1;M;DANIAU;Jean Louis;Française;;
+31;Haute-Garonne;31378;Montgaillard-sur-Save;1;TOUS POUR MONTGAILLARD;TOUS POUR MONTGAILLARD;;;OUI;1;M;MALEPLATE;Jérôme;Française;;
+31;Haute-Garonne;31379;Montgazin;1;Liste d'union et de gestion communale;Liste d'union et de gestion communale;;;OUI;1;F;GILAMA;Chantal;Française;;
+31;Haute-Garonne;31380;Montgeard;1;VIVRE ENSEMBLE 2026;VIVRE ENSEMBLE 2026;;;OUI;1;M;KONDRYSZYN;Serge;Française;;
+31;Haute-Garonne;31380;Montgeard;2;Ensemble pour MONTGEARD;Ensemble pour MONTGEARD;;;OUI;1;F;CROUZIL;Maryse;Française;;
+31;Haute-Garonne;31381;Montgiscard;1;MONTGISCARD pour tous;MONTGISCARD pour tous;;;OUI;1;M;FOREST;Laurent;Française;;OUI
+31;Haute-Garonne;31382;Montgras;1;ENSEMBLE POUR MONTGRAS;ENSEMBLE POUR MONTGRAS;;;OUI;1;M;CASTILLON;Eric;Française;;
+31;Haute-Garonne;31383;Montjoire;1;MONTJOIRE A VENIR;MONTJOIRE A VENIR;;;OUI;1;F;GOUSMAR;Isabelle;Française;;OUI
+31;Haute-Garonne;31384;Montlaur;1;Montlaur un avenir commun;Montlaur un avenir commun;;;OUI;1;M;HUMBERT-DROZ;Arnaud;Française;;OUI
+31;Haute-Garonne;31385;Montmaurin;1;UNIS POUR MONTMAURIN;UNIS POUR MONTMAURIN;;;OUI;1;M;MIRO;Bertrand;Française;;
+31;Haute-Garonne;31385;Montmaurin;2;MONTMAURIN DEMAIN;MONTMAURIN DEMAIN;;;OUI;1;F;QUEREILHAC;Véronique;Française;;
+31;Haute-Garonne;31386;Montoulieu-Saint-Bernard;1;ENSEMBLE CONTINUONS;ENSEMBLE CONTINUONS;;;OUI;1;M;MASSARIN;Yvan;Française;;
+31;Haute-Garonne;31387;Montoussin;1;BIEN VIVRE A MONTOUSSIN;BIEN VIVRE A MONTOUSSIN;;;OUI;1;M;BARON;Cédric;Française;;
+31;Haute-Garonne;31388;Montpitol;1;Un village pour tous un avenir commun;Un village pour tous un avenir commun;;;OUI;1;M;MARTY;Christophe;Française;;
+31;Haute-Garonne;31388;Montpitol;2;MONTPITOL EN CONFIANCE;MONTPITOL EN CONFIANCE;;;OUI;1;M;CASALE;Jean-François;Française;;
+31;Haute-Garonne;31389;Montrabé;1;DEMAIN MONTRABÉ;DEMAIN MONTRABÉ;LDVG;Liste divers gauche;OUI;1;M;LARROQUE;Joël;Française;;OUI
+31;Haute-Garonne;31389;Montrabé;2;Montrabé +;Montrabé +;LDVC;Liste divers centre;OUI;1;M;LECOQ-KROMWEL;Olivier;Française;;OUI
+31;Haute-Garonne;31390;Montréjeau;1;CAP SUR L'AVENIR;CAP SUR L'AVENIR;;;OUI;1;M;BARON;Jérôme;Française;;OUI
+31;Haute-Garonne;31390;Montréjeau;2;AIMER MONTREJEAU;AIMER MONTREJEAU;;;OUI;1;M;GALLET;Jacques;Française;;OUI
+31;Haute-Garonne;31390;Montréjeau;3;MONTREJEAU FORCE D'AVENIR;MONTREJEAU FORCE D'AVENIR;;;OUI;1;M;CAPOMASI;Michel;Française;;OUI
+31;Haute-Garonne;31391;Montsaunès;1;POUR UN VILLAGE VIVANT ET SOLIDAIRE;POUR UN VILLAGE VIVANT ET SOLIDAIRE;;;OUI;1;M;BOYREAU;Michel;Française;;
+31;Haute-Garonne;31392;Mourvilles-Basses;1;Défense des intérêts communaux et ruraux;Défense des intérêts communaux et ruraux;;;OUI;1;M;DE VILLELE;Philippe;Française;;
+31;Haute-Garonne;31393;Mourvilles-Hautes;1;Ensemble pour MOURVILLES-HAUTES;Ensemble pour MOURVILLES-HAUTES;;;OUI;1;M;BORDIGNON;Mathieu;Française;;
+31;Haute-Garonne;31394;Moustajon;1;ENSEMBLE POUR MOUSTAJON;ENSEMBLE POUR MOUSTAJON;;;OUI;1;M;ABADIA;Jean-François;Française;;
+31;Haute-Garonne;31395;Muret;1;LUTTE OUVRIERE - LE CAMP DES TRAVAILLEURS;LUTTE OUVRIERE - LE CAMP DES TRAVAILLEURS;LEXG;Liste d'extrême-gauche;OUI;1;M;BERGNES;Hervé;Française;;OUI
+31;Haute-Garonne;31395;Muret;2;du pepp's pour muret;du pepp's pour muret;LDVG;Liste divers gauche;OUI;1;M;DELAHAYE;Christophe;Française;;OUI
+31;Haute-Garonne;31395;Muret;3;MURET POUR VOUS ET AVEC VOUS;MURET POUR VOUS ET AVEC VOUS;LDVG;Liste divers gauche;OUI;1;M;MANDEMENT;André;Française;;OUI
+31;Haute-Garonne;31395;Muret;4;POUR L'AVENIR DE MURET ! AVEC FABIO SERRA;POUR L'AVENIR DE MURET ! AVEC FABIO SERRA;LRN;Liste du Rassemblement National;OUI;1;M;SERRA;Fabio;Française;;OUI
+31;Haute-Garonne;31396;Nailloux;1;Nailloux Bouge Avec Vous;Nailloux Bouge Avec Vous;LDVG;Liste divers gauche;OUI;1;F;GLEYSES;Lison;Française;;OUI
+31;Haute-Garonne;31396;Nailloux;2;Nailloux demain;Nailloux demain;LECO;Liste écologiste;OUI;1;M;DELMAS;Christian;Française;;OUI
+31;Haute-Garonne;31397;Nénigan;1;NENIGAN'SEMBLE;NENIGAN'SEMBLE;;;OUI;1;M;CRESPIN;Damien;Française;;
+31;Haute-Garonne;31398;Nizan-Gesse;1;JUSTE NOUS;JUSTE NOUS;;;OUI;1;M;SOLLE;Mathieu;Française;;
+31;Haute-Garonne;31399;Noé;1;NOE POUR TOUS;NOE POUR TOUS;;;OUI;1;M;CAZARRÉ;Max;Française;;OUI
+31;Haute-Garonne;31400;Nogaret;1;ENSEMBLE POUR NOGARET;ENSEMBLE POUR NOGARET;;;OUI;1;M;PLANELLA;Fabien;Française;;
+31;Haute-Garonne;31401;Noueilles;1;Ensemble pour Noueilles;Ensemble pour Noueilles;;;OUI;1;M;MATTER;Yannick;Française;;
+31;Haute-Garonne;31401;Noueilles;2;Avec vous pour Noueilles;Avec vous pour Noueilles;;;OUI;1;F;SAVES;Marie José;Française;;
+31;Haute-Garonne;31402;Odars;1;Odars A Venir;Odars A Venir;;;OUI;1;F;BERTHELOT;Béatrice;Française;;
+31;Haute-Garonne;31403;Ondes;1;Ondes simplement;Ondes simplement;;;OUI;1;M;PAVAN;André;Française;;
+31;Haute-Garonne;31404;Oô;1;LISTE D'UNION MUNICIPALE POUR OÔ;LISTE D'UNION MUNICIPALE POUR OÔ;;;OUI;1;M;RIVES;Jean-Jacques;Française;;
+31;Haute-Garonne;31405;Ore;1;ORE AU COEUR !;ORE AU COEUR !;;;OUI;2;M;LARGY;Pierre;Française;;
+31;Haute-Garonne;31406;Palaminy;1;AGIR ENSEMBLE POUR PALAMINY;AGIR ENSEMBLE POUR PALAMINY;;;OUI;1;M;SENSEBÉ;Christian;Française;;
+31;Haute-Garonne;31407;Paulhac;1;AVEC VOUS POUR PAULHAC;AVEC VOUS POUR PAULHAC;;;OUI;1;F;RAOUX;Nathalie;Française;;OUI
+31;Haute-Garonne;31408;Payssous;1;UNION ET SOLISARITE POUR TOUS;UNION ET SOLISARITE POUR TOUS;;;OUI;1;M;RENAUD;Jacques;Française;;
+31;Haute-Garonne;31409;Péchabou;1;Péchabou uni;Péchabou uni;;;OUI;1;F;SANGAY;Dominique;Française;;OUI
+31;Haute-Garonne;31410;Pechbonnieu;1;Pechbonnieu pour vous, avec vous;Pechbonnieu pour vous, avec vous;LDVG;Liste divers gauche;OUI;1;F;GEIL-GOMEZ;Sabine;Française;;OUI
+31;Haute-Garonne;31410;Pechbonnieu;2;COLLECTIF PECHBOMIEUX;COLLECTIF PECHBOMIEUX;LDVD;Liste divers droite;OUI;1;M;LAFFONT;Pierre;Française;;OUI
+31;Haute-Garonne;31411;Pechbusque;1;Pour que Pechbusque reste un village où il fait bon vivre;Pour que Pechbusque reste un village où il fait bon vivre;;;OUI;1;M;BELAIR;Didier;Française;;
+31;Haute-Garonne;31412;Péguilhan;1;AGIR POUR NOTRE VILLAGE;AGIR POUR NOTRE VILLAGE;;;OUI;1;F;LAURENTIES BARRERE;Céline;Française;;
+31;Haute-Garonne;31413;Pelleport;1;Continuons Ensemble;Continuons Ensemble;;;OUI;1;M;BARGE SANSELME;Christian;Française;;
+31;Haute-Garonne;31413;Pelleport;2;PELLEPORT AUTREMENT;PELLEPORT AUTREMENT;;;OUI;1;M;VANHECKE;Romain;Française;;
+31;Haute-Garonne;31414;Peyrissas;1;PEYRISSAS DEMAIN;PEYRISSAS DEMAIN;;;OUI;1;M;LOUBEYRE;Guy;Française;;
+31;Haute-Garonne;31415;Peyrouzet;1;ENSEMBLE POUR PEYROUZET;ENSEMBLE POUR PEYROUZET;;;OUI;1;M;LAGRANGE;Philippe;Française;;
+31;Haute-Garonne;31416;Peyssies;1;Notre Village votre Avenir;Notre Village votre Avenir;;;OUI;1;M;CLAUDIN;Yoann;Française;;
+31;Haute-Garonne;31417;Pibrac;1;Unis pour Pibrac;Unis pour Pibrac;LDIV;Liste Divers;OUI;1;M;COSTES;Bruno;Française;;OUI
+31;Haute-Garonne;31417;Pibrac;2;Demain Pibrac 2026;Demain Pibrac 2026;LDVG;Liste divers gauche;OUI;1;F;CORTIJO;Denise;Française;;OUI
+31;Haute-Garonne;31418;Pin-Balma;1;Préserver et rassembler PIN-BALMA;Préserver et rassembler PIN-BALMA;;;OUI;1;M;BEZERRA;Gil;Française;;OUI
+31;Haute-Garonne;31419;Le Pin-Murelet;1;ensemble pour le pin murelet;ensemble pour le pin murelet;;;OUI;1;M;SOULES;Jean-Luc;Française;;
+31;Haute-Garonne;31420;Pinsaguel;1;PINSAGUEL CONFLUENCE DES FUTURS;PINSAGUEL CONFLUENCE DES FUTURS;;;OUI;1;M;BOURNET;Jean-Pierre;Française;;OUI
+31;Haute-Garonne;31420;Pinsaguel;2;AIMER PINSAGUEL;AIMER PINSAGUEL;;;OUI;1;M;BÉRAIL;Olivier;Française;;OUI
+31;Haute-Garonne;31421;Pins-Justaret;1;PINS-JUSTARET DEMAIN;PINS-JUSTARET DEMAIN;LDVC;Liste divers centre;OUI;1;M;GUERRIOT;Philippe;Française;;OUI
+31;Haute-Garonne;31422;Plagne;1;PLAGNE, NOS RACINES, NOTRE AVENIR;PLAGNE, NOS RACINES, NOTRE AVENIR;;;OUI;1;M;FONADE;Thierry;Française;;
+31;Haute-Garonne;31422;Plagne;2;Plagne osons ensemble;Plagne osons ensemble;;;OUI;1;M;DEDIEU;Christian;Française;;
+31;Haute-Garonne;31423;Plagnole;1;ENSEMBLE POUR PLAGNOLE;ENSEMBLE POUR PLAGNOLE;;;OUI;1;M;DUPUY;Georges;Française;;
+31;Haute-Garonne;31424;Plaisance-du-Touch;1;Plaisance, solidaire et responsable;Plaisance, solidaire et responsable;LDVG;Liste divers gauche;OUI;1;M;GUYOT;Philippe;Française;;OUI
+31;Haute-Garonne;31424;Plaisance-du-Touch;2;L'ALTERNANCE POUR PLAISANCE;L'ALTERNANCE POUR PLAISANCE;LRN;Liste du Rassemblement National;OUI;1;M;BREFEL;Anthony;Française;;OUI
+31;Haute-Garonne;31424;Plaisance-du-Touch;3;Plaisance citoyenne;Plaisance citoyenne;LDVG;Liste divers gauche;OUI;1;F;QUEVAL;Florence;Française;;OUI
+31;Haute-Garonne;31424;Plaisance-du-Touch;4;Tous ensemble pour Plaisance;Tous ensemble pour Plaisance;LDVC;Liste divers centre;OUI;1;M;PELLEGRINO;Joseph;Française;;OUI
+31;Haute-Garonne;31425;Le Plan;1;CONTINUONS POUR DEMAIN;CONTINUONS POUR DEMAIN;;;OUI;1;M;SERVAT;Jacques;Française;;
+31;Haute-Garonne;31426;Pointis-de-Rivière;1;ENSEMBLE,TOUJOURS DYNAMIQUE POUR POINTIS;ENSEMBLE,TOUJOURS DYNAMIQUE POUR POINTIS;;;OUI;1;M;BISTOLFI;Patrick;Française;;
+31;Haute-Garonne;31427;Pointis-Inard;1;UNIS POUR POINTIS-INARD;UNIS POUR POINTIS-INARD;;;OUI;1;M;SAUNE;Philippe;Française;;
+31;Haute-Garonne;31427;Pointis-Inard;2;UN NOUVEL ELAN, ENSEMBLE;UN NOUVEL ELAN, ENSEMBLE;;;OUI;1;M;FROECHLY;Christophe;Française;;
+31;Haute-Garonne;31428;Polastron;1;UNIS POUR POLASTRON - CONTINUONS ENSEMBLE POUR NOTRE VILLAGE;UNIS POUR POLASTRON - CONTINUONS ENSEMBLE POUR NOTRE VILLAGE;;;OUI;1;F;LAUGA;Marie-Hélène;Française;;
+31;Haute-Garonne;31428;Polastron;2;POLASTRON-NOUVEAU SOUFFLE;POLASTRON-NOUVEAU SOUFFLE;;;OUI;1;M;ESTEBE;Julien;Française;;
+31;Haute-Garonne;31429;Pompertuzat;1;AGIR POUR DEMAIN;AGIR POUR DEMAIN;;;OUI;1;F;GALVANI;Christine;Française;;OUI
+31;Haute-Garonne;31430;Ponlat-Taillebourg;1;ENSEMBLE POUR NOTRE VILLAGE;ENSEMBLE POUR NOTRE VILLAGE;;;OUI;1;M;FOURTIES;Gilles;Française;;
+31;Haute-Garonne;31431;Portet-d'Aspet;1;FAIRE VIVRE PORTET;FAIRE VIVRE PORTET;;;OUI;1;F;THOMAS;Geneviève;Française;;
+31;Haute-Garonne;31431;Portet-d'Aspet;2;AGIR POUR PORTET;AGIR POUR PORTET;;;OUI;1;M;COLL;Alain;Française;;
+31;Haute-Garonne;31432;Portet-de-Luchon;1;ENSEMBLE POUR PORTET;ENSEMBLE POUR PORTET;;;OUI;1;M;BOGINO;Pierre;Française;;
+31;Haute-Garonne;31433;Portet-sur-Garonne;1;PORTET FORTE, SEREINE, RASSEMBLEE;PORTET FORTE, SEREINE, RASSEMBLEE;LSOC;Liste du Parti socialiste;OUI;1;M;SUAUD;Thierry;Française;;OUI
+31;Haute-Garonne;31434;Poubeau;1;AVEC VOUS POUR POUBEAU;AVEC VOUS POUR POUBEAU;;;OUI;1;M;SAPORTE;Gérard;Française;;
+31;Haute-Garonne;31435;Poucharramet;1;vivre ensemble a poucharramet;vivre ensemble a poucharramet;;;OUI;1;M;COURS;David;Française;;
+31;Haute-Garonne;31436;Pouy-de-Touges;1;ENTENTE COMMUNALE;ENTENTE COMMUNALE;;;OUI;1;M;SOULAN;Yves;Française;;
+31;Haute-Garonne;31437;Pouze;1;BIEN VIVRE ENSEMBLE A POUZE;BIEN VIVRE ENSEMBLE A POUZE;;;OUI;1;M;LATTARD;Pierre;Française;;
+31;Haute-Garonne;31439;Préserville;1;ENSEMBLE POUR L'AVENIR DE PRESERVILLE;ENSEMBLE POUR L'AVENIR DE PRESERVILLE;;;OUI;1;M;VANTIN;Laurent;Française;;
+31;Haute-Garonne;31440;Proupiary;1;PROUPIARY BIEN VIVRE ENSEMBLE;PROUPIARY BIEN VIVRE ENSEMBLE;;;OUI;1;M;CIMOLINO;Jean-François;Française;;
+31;Haute-Garonne;31441;Prunet;1;Défendre les interêts communaux;Défendre les interêts communaux;;;OUI;1;M;BOURGAREL;Roger;Française;;
+31;Haute-Garonne;31442;Puydaniel;1;Ensemble pour Puydaniel;Ensemble pour Puydaniel;;;OUI;1;M;BLANC;Jean-Claude;Française;;
+31;Haute-Garonne;31443;Puymaurin;1;PUYMAURIN AVANT TOUT;PUYMAURIN AVANT TOUT;;;OUI;1;F;FERRERE;Christine;Française;;
+31;Haute-Garonne;31444;Puysségur;1;Ensemble pour Puysségur;Ensemble pour Puysségur;;;OUI;1;M;LINDAN;Eric;Française;;
+31;Haute-Garonne;31445;Quint-Fonsegrives;1;Nous aimons Quint-Fonsegrives;Nous aimons Quint-Fonsegrives;LDVC;Liste divers centre;OUI;1;M;GASC;Jean-Pierre;Française;;OUI
+31;Haute-Garonne;31446;Ramonville-Saint-Agne;1;Ramonville Ecologie;Ramonville Ecologie;LVEC;Liste Les Ecologistes;OUI;1;M;KNÖDLSEDER;Jürgen;Allemande;;OUI
+31;Haute-Garonne;31446;Ramonville-Saint-Agne;2;Ramonville et vous;Ramonville et vous;LDVC;Liste divers centre;OUI;1;F;BROT;Sylvie;Française;;OUI
+31;Haute-Garonne;31446;Ramonville-Saint-Agne;3;Lutte Ouvrière - Le camp des travailleurs;Lutte Ouvrière - Le camp des travailleurs;LEXG;Liste d'extrême-gauche;OUI;1;M;DERREZ;Pascal;Française;;OUI
+31;Haute-Garonne;31446;Ramonville-Saint-Agne;4;RAMONVILLE POUR TOUS;RAMONVILLE POUR TOUS;LUG;Liste d'union à gauche;OUI;1;M;LUBAC;Christophe;Française;;OUI
+31;Haute-Garonne;31447;Razecueillé;1;AVEC VOUS, RAZECUEILLE DEMAIN;AVEC VOUS, RAZECUEILLE DEMAIN;;;OUI;1;M;BARRERE;Jean-Pierre;Française;;
+31;Haute-Garonne;31448;Rebigue;1;Vivre à Rebigue;Vivre à Rebigue;;;OUI;1;M;CHARRIE;Jacques;Française;;
+31;Haute-Garonne;31449;Régades;1;ENSEMBLE POUR REGADES;ENSEMBLE POUR REGADES;;;OUI;1;F;GASTO;Marlène;Française;;
+31;Haute-Garonne;31450;Renneville;1;XV Rennevillois.es;XV Rennevillois.es;;;OUI;1;M;MOREL;Jean-Luc;Française;;
+31;Haute-Garonne;31451;Revel;1;REVEL VIVRE ENSEMBLE;REVEL VIVRE ENSEMBLE;LDVC;Liste divers centre;OUI;1;M;GARCIA;Jérôme;Française;;OUI
+31;Haute-Garonne;31451;Revel;2;REVEL AUJOURD'HUI ET DEMAIN;REVEL AUJOURD'HUI ET DEMAIN;LDVC;Liste divers centre;OUI;1;F;GARONZI;Marielle;Française;;OUI
+31;Haute-Garonne;31452;Rieucazé;1;RIEUCAZE, NOTRE VILLAGE;RIEUCAZE, NOTRE VILLAGE;;;OUI;1;F;SECOMANDI;Caroline;Française;;
+31;Haute-Garonne;31453;Rieumajou;1;Unis pour Rieumajou;Unis pour Rieumajou;;;OUI;1;F;DIAZ;Stéphanie;Française;;
+31;Haute-Garonne;31454;Rieumes;1;VIVRE RIEUMES;VIVRE RIEUMES;LDVC;Liste divers centre;OUI;1;M;CHANTRAN;Thierry;Française;;OUI
+31;Haute-Garonne;31454;Rieumes;2;RIEUMES AVENIR;RIEUMES AVENIR;LDVG;Liste divers gauche;OUI;1;M;CHEROBIN;Frédéric;Française;;OUI
+31;Haute-Garonne;31455;Rieux-Volvestre;1;agir et vivre ensemble;agir et vivre ensemble;;;OUI;1;F;VEZAT-BARONIA;Maryse;Française;;OUI
+31;Haute-Garonne;31456;Riolas;1;LISTE DE DEFENSE DES INTERETS COMMUNAUX;LISTE DE DEFENSE DES INTERETS COMMUNAUX;;;OUI;1;M;DUPRAT;Michel;Française;;
+31;Haute-Garonne;31457;Roquefort-sur-Garonne;1;GENERATIONS ROQUEFORT;GENERATIONS ROQUEFORT;;;OUI;1;M;PORTET;Jean-Bernard;Française;;
+31;Haute-Garonne;31458;Roques;1;roques avenir;roques avenir;LDIV;Liste Divers;OUI;1;M;MABIRE;Sylvain;Française;;OUI
+31;Haute-Garonne;31458;Roques;2;ROQUES AVEC VOUS;ROQUES AVEC VOUS;LDVG;Liste divers gauche;OUI;1;F;HUBERT;Nadine;Française;;OUI
+31;Haute-Garonne;31459;Roquesérière;1;"Roquesérières Esprit Village ""Allons plus loin,ensemble""";"Roquesérières Esprit Village ""Allons plus loin,ensemble""";;;OUI;2;M;CASTET;Thierry;Française;;
+31;Haute-Garonne;31460;Roquettes;1;BIEN VIVRE A ROQUETTES;BIEN VIVRE A ROQUETTES;LDVG;Liste divers gauche;OUI;1;F;FILIPPINI;Marlène;Française;;OUI
+31;Haute-Garonne;31460;Roquettes;2;roquettes village a vivre;roquettes village a vivre;LDIV;Liste Divers;OUI;1;M;CAPDECOMME;Michel;Française;;OUI
+31;Haute-Garonne;31461;Rouède;1;L'AVENIR PARTAGE;L'AVENIR PARTAGE;;;OUI;1;F;VERGES;Martine;Française;;
+31;Haute-Garonne;31461;Rouède;2;VIVRE A ROUEDE;VIVRE A ROUEDE;;;OUI;1;M;SAINT-MARTIN;Thierry;Française;;
+31;Haute-Garonne;31462;Rouffiac-Tolosan;1;Rouffiac Tolosan Ensemble;Rouffiac Tolosan Ensemble;;;OUI;1;M;DECIMA;Michel;Française;;OUI
+31;Haute-Garonne;31462;Rouffiac-Tolosan;2;Rouffiac-Tolosan, notre avenir en confiance;Rouffiac-Tolosan, notre avenir en confiance;;;OUI;1;M;SOURZAC;Jean-Gervais;Française;;OUI
+31;Haute-Garonne;31463;Roumens;1;Roumens;Roumens;;;OUI;1;M;LASMAN;Philippe;Française;;
+31;Haute-Garonne;31464;Sabonnères;1;Sabonnères 2026;Sabonnères 2026;;;OUI;1;M;BÉRAIL;Pierre;Française;;
+31;Haute-Garonne;31465;Saccourvielle;1;AGIR POUR SACCOURVIELLE;AGIR POUR SACCOURVIELLE;;;OUI;1;M;LOBELSON;Roland;Française;;
+31;Haute-Garonne;31465;Saccourvielle;2;LISTE D'INTERET GENERAL;LISTE D'INTERET GENERAL;;;OUI;1;M;GARCIA;Clément;Française;;
+31;Haute-Garonne;31466;Saiguède;1;ENSEMBLE POUR SAIGUEDE;ENSEMBLE POUR SAIGUEDE;;;OUI;1;F;TABERNE-RIBÈRE;Brigitte;Française;;
+31;Haute-Garonne;31467;Saint-Alban;1;UN NOUVEL ÉLAN POUR SAINT-ALBAN;UN NOUVEL ÉLAN POUR SAINT-ALBAN;LDVG;Liste divers gauche;OUI;1;M;CABANNE;Yoan;Française;;OUI
+31;Haute-Garonne;31467;Saint-Alban;2;Continuons Ensemble;Continuons Ensemble;LDVC;Liste divers centre;OUI;1;M;SUSIGAN;Alain;Française;;OUI
+31;Haute-Garonne;31468;Saint-André;1;ENSEMBLE ET UNIS POUR SAINT-ANDRE;ENSEMBLE ET UNIS POUR SAINT-ANDRE;;;OUI;1;M;CASTETS;David;Française;;
+31;Haute-Garonne;31469;Saint-Araille;1;ENSEMBLE POUR NOTRE VILLAGE;ENSEMBLE POUR NOTRE VILLAGE;;;OUI;1;M;DUTRAIN;Marc;Française;;
+31;Haute-Garonne;31470;Saint-Aventin;1;ENSEMBLE POUR SAINT-AVENTIN;ENSEMBLE POUR SAINT-AVENTIN;;;OUI;1;M;TINÉ;Jean-Claude;Française;;
+31;Haute-Garonne;31471;Saint-Béat-Lez;1;MIEUX VIVRE A SAINT-BEAT-LEZ;MIEUX VIVRE A SAINT-BEAT-LEZ;;;OUI;1;F;PEREFARRES;Charlotte;Française;;
+31;Haute-Garonne;31471;Saint-Béat-Lez;2;HERITAGE & AVENIR SAINT-BEAT-LEZ EN COMMUN;HERITAGE & AVENIR SAINT-BEAT-LEZ EN COMMUN;;;OUI;1;M;ROUX;Gérard;Française;;
+31;Haute-Garonne;31472;Saint-Bertrand-de-Comminges;1;Unis pour St Bertrand;Unis pour St Bertrand;;;OUI;1;F;UCHAN;Marie-Claire;Française;;
+31;Haute-Garonne;31472;Saint-Bertrand-de-Comminges;2;DES ACTES POUR SAINT-BERTRAND;DES ACTES POUR SAINT-BERTRAND;;;OUI;1;M;GHIONE;Patrice;Française;;
+31;Haute-Garonne;31473;Saint-Cézert;1;Inscrire Saint-Cézert dans un avenir durable;Inscrire Saint-Cézert dans un avenir durable;;;OUI;1;M;OLIVEIRA SOARES;Henri;Française;;
+31;Haute-Garonne;31474;Saint-Christaud;1;PROCHE ET ENGAGEE POUR SAINT-CHRISTAUD;PROCHE ET ENGAGEE POUR SAINT-CHRISTAUD;;;OUI;1;F;JORET;Hélène;Française;;
+31;Haute-Garonne;31475;Saint-Clar-de-Rivière;1;unis pour saint clar;unis pour saint clar;;;OUI;1;M;GASQUET;Etienne;Française;;OUI
+31;Haute-Garonne;31476;Saint-Elix-le-Château;1;Saint Elix  d'Abord;Saint Elix d'Abord;;;OUI;1;M;AKA;Alain;Française;;
+31;Haute-Garonne;31476;Saint-Elix-le-Château;2;SAINT ELIX NOTRE VILLAGE;SAINT ELIX NOTRE VILLAGE;;;OUI;1;M;DÉPREZ;François;Française;;
+31;Haute-Garonne;31477;Saint-Elix-Séglan;1;ENSEMBLE POUR NOTRE COMMUNE;ENSEMBLE POUR NOTRE COMMUNE;;;OUI;1;M;SUSPENE;Nicolas;Française;;
+31;Haute-Garonne;31478;Saint-Félix-Lauragais;1;Ensemble pour Saint-Félix;Ensemble pour Saint-Félix;;;OUI;1;M;BOURREL;Alain;Française;;OUI
+31;Haute-Garonne;31479;Saint-Ferréol-de-Comminges;1;ENSEMBLE POUR SAINT-FERREOL;ENSEMBLE POUR SAINT-FERREOL;;;OUI;1;M;BOUAS;Thierry;Française;;
+31;Haute-Garonne;31480;Sainte-Foy-d'Aigrefeuille;1;UNIS POUR DEMAIN;UNIS POUR DEMAIN;;;OUI;1;M;CAZENEUVE;Didier;Française;;OUI
+31;Haute-Garonne;31480;Sainte-Foy-d'Aigrefeuille;2;UN NOUVEL ÉLAN;UN NOUVEL ÉLAN;;;OUI;1;F;VALETTE;Sandrine;Française;;OUI
+31;Haute-Garonne;31481;Sainte-Foy-de-Peyrolières;1;AU PLUS PRÈS DES FOYENS;AU PLUS PRÈS DES FOYENS;;;OUI;1;M;LONG;Patrice;Française;;OUI
+31;Haute-Garonne;31481;Sainte-Foy-de-Peyrolières;2;SAINTE-FOY ENSEMBLE;SAINTE-FOY ENSEMBLE;;;OUI;1;M;VIVES;François;Française;;OUI
+31;Haute-Garonne;31482;Saint-Frajou;1;ENSEMBLE POUR SAINT FRAJOU;ENSEMBLE POUR SAINT FRAJOU;;;OUI;1;F;DUCOS;Christelle;Française;;
+31;Haute-Garonne;31482;Saint-Frajou;2;ENSEMBLE POUR UN VILLAGE DYNAMIQUE;ENSEMBLE POUR UN VILLAGE DYNAMIQUE;;;OUI;1;M;LASSERRE;Guy;Française;;
+31;Haute-Garonne;31483;Saint-Gaudens;1;RETROUVONS SAINT-GAUDENS;RETROUVONS SAINT-GAUDENS;LRN;Liste du Rassemblement National;OUI;1;M;DELCHARD;Loïc;Française;;OUI
+31;Haute-Garonne;31483;Saint-Gaudens;2;SAINT-GAUDENS ENSEMBLE;SAINT-GAUDENS ENSEMBLE;LDIV;Liste Divers;OUI;1;M;DUCLOS;Jean-Yves;Française;;OUI
+31;Haute-Garonne;31483;Saint-Gaudens;3;SAINT-GAUDENS AVEC VOUS, POUR VOUS !;SAINT-GAUDENS AVEC VOUS, POUR VOUS !;LDVG;Liste divers gauche;OUI;1;F;POUJARDIEU;Françoise;Française;;OUI
+31;Haute-Garonne;31484;Saint-Geniès-Bellevue;1;UN SOUFFLE NOUVEAU POUR SAINT-GENIÈS;UN SOUFFLE NOUVEAU POUR SAINT-GENIÈS;;;OUI;1;M;DE LASSUS SAINT-GENIÈS;Charles;Française;;OUI
+31;Haute-Garonne;31484;Saint-Geniès-Bellevue;2;Agir ensemble pour notre village;Agir ensemble pour notre village;;;OUI;1;M;TANCHAUD;Christophe;Française;;OUI
+31;Haute-Garonne;31484;Saint-Geniès-Bellevue;3;Continuer ensemble pour Saint-Geniès;Continuer ensemble pour Saint-Geniès;;;OUI;1;M;PIN-BELLOC;Thierry;Française;;OUI
+31;Haute-Garonne;31485;Saint-Germier;1;Saint Germier per totz;Saint Germier per totz;;;OUI;1;F;ESCRICH-FONS;Esther;Française;;
+31;Haute-Garonne;31486;Saint-Hilaire;1;ENGAGES AUJOURD'HUI ET DEMAIN POUR SAINT-HILAIRE;ENGAGES AUJOURD'HUI ET DEMAIN POUR SAINT-HILAIRE;;;OUI;1;M;PALAYRET;Cyril;Française;;OUI
+31;Haute-Garonne;31487;Saint-Ignan;1;POURSUIVONS NOS PROJETS POUR LE BIEN-VIVRE ENSEMBLE;POURSUIVONS NOS PROJETS POUR LE BIEN-VIVRE ENSEMBLE;;;OUI;1;M;GIRAUDO;Raymond;Française;;
+31;Haute-Garonne;31488;Saint-Jean;1;Saint-Jean ma ville;Saint-Jean ma ville;LUG;Liste d'union à gauche;OUI;1;M;ESPIC;Bruno;Française;;OUI
+31;Haute-Garonne;31489;Saint-Jean-Lherm;1;UNIS, CONSTRUISONS L'AVENIR DE SAINT JEAN LHERM;UNIS, CONSTRUISONS L'AVENIR DE SAINT JEAN LHERM;;;OUI;1;M;COGO;Eric;Française;;
+31;Haute-Garonne;31490;Saint-Jory;1;ENSEMBLE POUR L'AVENIR DE SAINT-JORY;ENSEMBLE POUR L'AVENIR DE SAINT-JORY;LDVG;Liste divers gauche;OUI;1;M;DENOUVION;Victor;Française;;OUI
+31;Haute-Garonne;31490;Saint-Jory;2;UN FUTUR POUR SAINT-JORY;UN FUTUR POUR SAINT-JORY;LRN;Liste du Rassemblement National;OUI;1;M;BLOT;Clément;Française;;OUI
+31;Haute-Garonne;31491;Saint-Julia;1;Agir pour Saint-Julia;Agir pour Saint-Julia;;;OUI;1;F;CARRAT;Séverine;Française;;
+31;Haute-Garonne;31491;Saint-Julia;2;TOUS DIFFÉRENTS, UN MÊME VILLAGE;TOUS DIFFÉRENTS, UN MÊME VILLAGE;;;OUI;1;M;LAGENTE;Christian;Française;;
+31;Haute-Garonne;31492;Saint-Julien-sur-Garonne;1;AU COEUR DE SAINT JULIEN;AU COEUR DE SAINT JULIEN;;;OUI;1;M;LEFEBVRE;Patrick;Française;;
+31;Haute-Garonne;31493;Saint-Lary-Boujean;1;BIEN VIVRE A SAINT-LARY BOUJEAN;BIEN VIVRE A SAINT-LARY BOUJEAN;;;OUI;1;M;FARRE;Régis;Française;;
+31;Haute-Garonne;31494;Saint-Laurent;1;BIEN VIVRE A SAINT-LAURENT;BIEN VIVRE A SAINT-LAURENT;;;OUI;1;M;PITOUT;Daniel;Française;;
+31;Haute-Garonne;31495;Saint-Léon;1;Vivre Saint-Léon;Vivre Saint-Léon;;;OUI;1;F;CASES;Françoise;Française;;OUI
+31;Haute-Garonne;31495;Saint-Léon;2;Ensemble pour Saint-Léon;Ensemble pour Saint-Léon;;;OUI;1;F;HONVAULT;Aurore;Française;;OUI
+31;Haute-Garonne;31496;Sainte-Livrade;1;L'AVENIR DE SAINTE-LIVRADE, C'EST VOUS;L'AVENIR DE SAINTE-LIVRADE, C'EST VOUS;;;OUI;1;F;TRILHE;Rachel;Française;;
+31;Haute-Garonne;31496;Sainte-Livrade;2;RACINES & RENOUVEAU;RACINES & RENOUVEAU;;;OUI;1;F;BARRERE;Marie;Française;;
+31;Haute-Garonne;31497;Saint-Loup-Cammas;1;ENSEMBLE POUR SAINT-LOUP-CAMMAS;ENSEMBLE POUR SAINT-LOUP-CAMMAS;;;OUI;1;F;PENAVAIRE;Sandrine;Française;;OUI
+31;Haute-Garonne;31498;Saint-Loup-en-Comminges;1;ENSEMBLE CONTINUONS POUR SAINT-LOUP;ENSEMBLE CONTINUONS POUR SAINT-LOUP;;;OUI;1;M;BOUZIGUES;Denis;Française;;
+31;Haute-Garonne;31499;Saint-Lys;1;SAINT-LYS AVENIR;SAINT-LYS AVENIR;LDVC;Liste divers centre;OUI;1;M;PLANCHON;Fabrice;Française;;OUI
+31;Haute-Garonne;31499;Saint-Lys;2;EN ACTION POUR SAINT-LYS;EN ACTION POUR SAINT-LYS;LDVC;Liste divers centre;OUI;1;M;BERTRAND;Thierry;Française;;OUI
+31;Haute-Garonne;31499;Saint-Lys;3;SAINT LYS ENSEMBLE;SAINT LYS ENSEMBLE;LDVG;Liste divers gauche;OUI;1;M;DEUILHE;Serge;Française;;OUI
+31;Haute-Garonne;31500;Saint-Mamet;1;CONTINUONS ENSEMBLE SAINT-MAMET;CONTINUONS ENSEMBLE SAINT-MAMET;;;OUI;1;M;LYAUTEY;Hervé;Française;;
+31;Haute-Garonne;31501;Saint-Marcel-Paulel;1;Saint Marcel Paulel cultive ses valeurs;Saint Marcel Paulel cultive ses valeurs;;;OUI;1;F;RABANEL;Véronique;Française;;
+31;Haute-Garonne;31502;Saint-Marcet;1;LISTE D'UNION DEMOCRATIQUE;LISTE D'UNION DEMOCRATIQUE;;;OUI;1;M;ROUILLON;Gilles;Française;;
+31;Haute-Garonne;31502;Saint-Marcet;2;DE L'EXPERIENCE DANS UNE NOUVELLE DYNAMIQUE;DE L'EXPERIENCE DANS UNE NOUVELLE DYNAMIQUE;;;OUI;1;M;ABADIE;Daniel;Française;;
+31;Haute-Garonne;31503;Saint-Martory;1;UNIS POUR SAINT-MARTORY;UNIS POUR SAINT-MARTORY;;;OUI;1;M;RASPEAU;Raoul;Française;;OUI
+31;Haute-Garonne;31504;Saint-Médard;1;ENSEMBLE BIEN VIVRE A SAINT-MEDARD;ENSEMBLE BIEN VIVRE A SAINT-MEDARD;;;OUI;1;M;BARUTAUT;Jean-Pierre;Française;;
+31;Haute-Garonne;31505;Saint-Michel;1;ENSEMBLE POUR SAINT MICHEL;ENSEMBLE POUR SAINT MICHEL;;;OUI;1;M;PUECH;Bastien;Française;;
+31;Haute-Garonne;31506;Saint-Orens-de-Gameville;1;Continuons ensemble pour Saint-Orens 2026-2032;Continuons ensemble pour Saint-Orens 2026-2032;LDVC;Liste divers centre;OUI;1;F;FAURE;Dominique;Française;;OUI
+31;Haute-Garonne;31506;Saint-Orens-de-Gameville;2;Saint-Orens vraie;Saint-Orens vraie;LUG;Liste d'union à gauche;OUI;1;F;LUMEAU-PRECEPTIS;Aude;Française;;OUI
+31;Haute-Garonne;31507;Saint-Paul-sur-Save;1;Osons Saint-Paul;Osons Saint-Paul;;;OUI;1;F;URBAN;Marie-France;Française;;OUI
+31;Haute-Garonne;31507;Saint-Paul-sur-Save;2;J'aime Saint-Paul;J'aime Saint-Paul;;;OUI;1;M;PERES;Yoann;Française;;OUI
+31;Haute-Garonne;31508;Saint-Paul-d'Oueil;1;REDONNET JEAN-LUC;REDONNET JEAN-LUC;;;OUI;1;M;REDONNET;Jean-Luc;Française;;
+31;Haute-Garonne;31509;Saint-Pé-d'Ardet;1;ENSEMBLE POUR LES SAINT-PEENNES ET SAINT-PEENS;ENSEMBLE POUR LES SAINT-PEENNES ET SAINT-PEENS;;;OUI;1;M;DEU;Jérôme;Française;;
+31;Haute-Garonne;31510;Saint-Pé-Delbosc;1;AGIR ENSEMBLE POUR SAINT-PE;AGIR ENSEMBLE POUR SAINT-PE;;;OUI;1;M;FORTASSIN;Jean-Pierre;Française;;
+31;Haute-Garonne;31511;Saint-Pierre;1;UNE NOUVELLE PAGE - UN NOUVEL ENGAGEMENT;UNE NOUVELLE PAGE - UN NOUVEL ENGAGEMENT;;;OUI;1;F;JARNOLE;Pierrette;Française;;
+31;Haute-Garonne;31512;Saint-Pierre-de-Lages;1;S'engager Pleinement Durablement Localement;S'engager Pleinement Durablement Localement;;;OUI;1;F;SIORAT;Florence;Française;;
+31;Haute-Garonne;31512;Saint-Pierre-de-Lages;2;Ensemble, continuons pour le coeur du village;Ensemble, continuons pour le coeur du village;;;OUI;1;M;CREPY;Fabrice;Française;;
+31;Haute-Garonne;31512;Saint-Pierre-de-Lages;3;NOTRE COMMUNE NOTRE PRIORITÉ;NOTRE COMMUNE NOTRE PRIORITÉ;;;OUI;1;F;GRABIE;Charlène;Française;;
+31;Haute-Garonne;31513;Saint-Plancard;1;SAINT-PLANCARD : ENGAGEMENT, ECOUTE, ACTION;SAINT-PLANCARD : ENGAGEMENT, ECOUTE, ACTION;;;OUI;1;F;BARTHE SAINT-PAUL;Marion;Française;;
+31;Haute-Garonne;31513;Saint-Plancard;2;L'EXPERIENCE POUR L'AVENIR;L'EXPERIENCE POUR L'AVENIR;;;OUI;1;F;FONTANEAU;Marie-Hélène;Française;;
+31;Haute-Garonne;31514;Saint-Rome;1;ENSEMBLE POUR SAINT-ROME AVEC GEOFFROY DE LA PANOUSE;ENSEMBLE POUR SAINT-ROME AVEC GEOFFROY DE LA PANOUSE;;;OUI;1;F;DUPONT;Sylvie;Française;;
+31;Haute-Garonne;31515;Saint-Rustice;1;Vivre Saint-Rustice;Vivre Saint-Rustice;;;OUI;1;M;LECORRE;Damien;Française;;
+31;Haute-Garonne;31516;Saint-Sauveur;1;BIEN VIVRE A SAINT-SAUVEUR;BIEN VIVRE A SAINT-SAUVEUR;;;OUI;1;M;CORACIN;Olivier;Française;;OUI
+31;Haute-Garonne;31516;Saint-Sauveur;2;AGIR POUR L'ÉQUILIBRE DE SAINT-SAUVEUR;AGIR POUR L'ÉQUILIBRE DE SAINT-SAUVEUR;;;OUI;1;M;SAINT-MARTIN;Pascal;Française;;OUI
+31;Haute-Garonne;31517;Saint-Sulpice-sur-Lèze;1;SAINT-SULPICE C'EST VOUS;SAINT-SULPICE C'EST VOUS;;;OUI;1;F;CONDIS;Sylvette;Française;;OUI
+31;Haute-Garonne;31517;Saint-Sulpice-sur-Lèze;2;ensemble saint sulpice sur leze;ensemble saint sulpice sur leze;;;OUI;1;F;BAREILLES;Aurélie;Française;;OUI
+31;Haute-Garonne;31518;Saint-Thomas;1;BIEN VIVRE A SAINT THOMAS;BIEN VIVRE A SAINT THOMAS;;;OUI;1;M;PALAS;Alain;Française;;
+31;Haute-Garonne;31519;Saint-Vincent;1;Village Solidaire;Village Solidaire;;;OUI;1;M;ROUQUAYROL;Pierre Alain;Française;;
+31;Haute-Garonne;31520;Sajas;1;ENSEMBLE POUR SAJAS;ENSEMBLE POUR SAJAS;;;OUI;1;M;GENAU;Didier;Française;;
+31;Haute-Garonne;31521;Saleich;1;CONTINUONS ENSEMBLE POUR LA VIE DE NOTRE VILLAGE;CONTINUONS ENSEMBLE POUR LA VIE DE NOTRE VILLAGE;;;OUI;1;M;JUNQUET;Gilles;Française;;
+31;Haute-Garonne;31522;Salherm;1;ENSEMBLE POUR SALHERM;ENSEMBLE POUR SALHERM;;;OUI;1;M;DE GAULEJAC;Michel;Française;;
+31;Haute-Garonne;31523;Salies-du-Salat;1;IMPULSION SALIES;IMPULSION SALIES;;;OUI;1;F;BASTIANELLI;Sabine;Française;;OUI
+31;Haute-Garonne;31523;Salies-du-Salat;2;SALIES 2026;SALIES 2026;;;OUI;1;M;BISCARO;Patrick;Française;;OUI
+31;Haute-Garonne;31524;Salles-et-Pratviel;1;LISTE D'INTERET GENERAL;LISTE D'INTERET GENERAL;;;OUI;1;M;PUENTE;Alain;Française;;
+31;Haute-Garonne;31525;Salles-sur-Garonne;1;Ensemble pour notre village;Ensemble pour notre village;;;OUI;1;M;CAILLET;Pierre;Française;;
+31;Haute-Garonne;31526;La Salvetat-Saint-Gilles;1;UN NOUVEL ÉLAN POUR LA SALVETAT-SAINT-GILLES;UN NOUVEL ÉLAN POUR LA SALVETAT-SAINT-GILLES;LDVG;Liste divers gauche;OUI;1;F;FALIERES;Monique;Française;;OUI
+31;Haute-Garonne;31526;La Salvetat-Saint-Gilles;2;LA SALVETAT CITOYENNE;LA SALVETAT CITOYENNE;LDVG;Liste divers gauche;OUI;1;M;ARDERIU;François;Française;;OUI
+31;Haute-Garonne;31527;La Salvetat-Lauragais;1;Le Bien vivre à la Salvetat;Le Bien vivre à la Salvetat;;;OUI;1;M;CAZELLES;Jean;Française;;
+31;Haute-Garonne;31528;Saman;1;ENSEMBLE, NOTRE VILLAGE, NOTRE AVENIR;ENSEMBLE, NOTRE VILLAGE, NOTRE AVENIR;;;OUI;1;M;LACROIX;Julien;Française;;
+31;Haute-Garonne;31529;Samouillan;1;SAMOUILLAN UN NOUVEL ELAN;SAMOUILLAN UN NOUVEL ELAN;;;OUI;1;M;GUIARD;Johann;Française;;
+31;Haute-Garonne;31530;Sana;1;Vivre ensemble a Sana;Vivre ensemble a Sana;;;OUI;1;M;GISQUET;Jean-Claude;Française;;
+31;Haute-Garonne;31530;Sana;2;UN NOUVEL ELAN POUR SANA;UN NOUVEL ELAN POUR SANA;;;OUI;1;M;ROQUABERT;Didier;Française;;
+31;Haute-Garonne;31531;Sarrecave;1;AVEC VOUS, POUR SARRECAVE;AVEC VOUS, POUR SARRECAVE;;;OUI;1;F;DUPLAN;Sandrine;Française;;
+31;Haute-Garonne;31532;Sarremezan;1;Liste des candidats pour les élections municipales 2026;Liste des candidats pour les élections municipales 2026;;;OUI;1;F;ENEL;Catherine;Française;;
+31;Haute-Garonne;31533;Saubens;1;AGIR POUR SAUBENS;AGIR POUR SAUBENS;;;OUI;1;M;BERGIA;Jean-Marc;Française;;OUI
+31;Haute-Garonne;31534;Saussens;1;UNIS POUR SAUSSENS;UNIS POUR SAUSSENS;;;OUI;1;F;DELORD;Geraldine;Française;;
+31;Haute-Garonne;31535;Sauveterre-de-Comminges;1;Engagés et unis pour Sauveterre-de-Comminges;Engagés et unis pour Sauveterre-de-Comminges;;;OUI;1;M;PRAT;Philippe;Française;;
+31;Haute-Garonne;31536;Saux-et-Pomarède;1;AGIR AUJOURD'HUI POUR PREPARER DEMAIN;AGIR AUJOURD'HUI POUR PREPARER DEMAIN;;;OUI;1;F;SANSONETTO;Evelyne;Française;;
+31;Haute-Garonne;31537;Savarthès;1;BIEN VIVRE A SAVARTHES;BIEN VIVRE A SAVARTHES;;;OUI;1;M;GERMAIN;Franck;Française;;
+31;Haute-Garonne;31538;Savères;1;Unie(s) pour Savères;Unie(s) pour Savères;;;OUI;1;F;ROUQUETTE;Amandine;Française;;
+31;Haute-Garonne;31539;Sédeilhac;1;SANDRINE AU SERVICE DE NOTRE VILLAGE;SANDRINE AU SERVICE DE NOTRE VILLAGE;;;OUI;1;M;CASTERAN;Philippe;Française;;
+31;Haute-Garonne;31540;Ségreville;1;Vivre ensemble pour Ségreville;Vivre ensemble pour Ségreville;;;OUI;1;M;DOUCEMENT;Vivien;Française;;
+31;Haute-Garonne;31541;Seilh;1;Ensemble pour Seilh;Ensemble pour Seilh;;;OUI;1;M;CASTERA;Didier;Française;;OUI
+31;Haute-Garonne;31542;Seilhan;1;ENSEMBLE POUR SEILHAN;ENSEMBLE POUR SEILHAN;;;OUI;1;F;VIGNEAUX;Denise;Française;;
+31;Haute-Garonne;31543;Sénarens;1;VIVRE ENSEMBLE;VIVRE ENSEMBLE;;;OUI;1;M;LAGUENS;Bernard;Française;;
+31;Haute-Garonne;31544;Sengouagnet;1;SENGOUAGNET AUTREMENT;SENGOUAGNET AUTREMENT;;;OUI;1;M;STEIN;Alexandre;Française;;
+31;Haute-Garonne;31544;Sengouagnet;2;UNIS POUR SENGOUAGNET;UNIS POUR SENGOUAGNET;;;OUI;1;M;JUNQUA;Sylvain;Française;;
+31;Haute-Garonne;31545;Sepx;1;ENSEMBLE POUR SEPX;ENSEMBLE POUR SEPX;;;OUI;1;F;JULIEN;Christine;Française;;
+31;Haute-Garonne;31546;Seyre;1;NOTRE DIVERSITE, UNE FORCE!;NOTRE DIVERSITE, UNE FORCE!;;;OUI;1;M;AMEGBLEAME;Koudjo;Française;;
+31;Haute-Garonne;31547;Seysses;1;SEYSSES ENSEMBLE;SEYSSES ENSEMBLE;LDVG;Liste divers gauche;OUI;1;M;BOUTELOUP;Jérôme;Française;;OUI
+31;Haute-Garonne;31547;Seysses;2;SEYSSES DEMAIN;SEYSSES DEMAIN;LUC;Liste d'union au centre;OUI;1;F;VALLIER;Vicky;Française;;OUI
+31;Haute-Garonne;31548;Signac;1;ENSEMBLE POUR SIGNAC;ENSEMBLE POUR SIGNAC;;;OUI;1;M;GUAUS;Marc;Française;;
+31;Haute-Garonne;31549;Sode;1;TOUS ENSEMBLE;TOUS ENSEMBLE;;;OUI;1;M;CHEZE;Jean-Christian;Française;;
+31;Haute-Garonne;31550;Soueich;1;Agir ensemble pour Soueich;Agir ensemble pour Soueich;;;OUI;1;F;SEGARD;Brigitte;Française;;
+31;Haute-Garonne;31550;Soueich;2;OSONS POUR SOUEICH 2026;OSONS POUR SOUEICH 2026;;;OUI;1;M;BORDES-LARRIEU;Alain;Française;;
+31;Haute-Garonne;31551;Tarabel;1;Vivre à Tarabel, c'est décider ensemble;Vivre à Tarabel, c'est décider ensemble;;;OUI;1;M;MIGEON;Frederic;Française;;
+31;Haute-Garonne;31552;Terrebasse;1;TERREBASSE DEMAIN;TERREBASSE DEMAIN;;;OUI;1;M;DIGNAT;Francis;Française;;
+31;Haute-Garonne;31553;Thil;1;Pour bien vivre à Thil, continuons ensemble;Pour bien vivre à Thil, continuons ensemble;;;OUI;1;F;FRAYARD;Céline;Française;;OUI
+31;Haute-Garonne;31554;Touille;1;AGIR POUR TOUILLE;AGIR POUR TOUILLE;;;OUI;1;M;BOUÉ;Vincent;Française;;
+31;Haute-Garonne;31555;Toulouse;1;Vivre mieux La gauche unie, écologiste, citoyenne et solidaire;Vivre mieux La gauche unie, écologiste, citoyenne et solidaire;LUG;Liste d'union à gauche;OUI;1;M;BRIANÇON;François;Française;;OUI
+31;Haute-Garonne;31555;Toulouse;2;NPA Révolutionnaires- Toulouse ouvriére et révolutionnaire.;NPA Révolutionnaires- Toulouse ouvriére et révolutionnaire.;LEXG;Liste d'extrême-gauche;OUI;1;M;SCALI;Guillaume;Française;;OUI
+31;Haute-Garonne;31555;Toulouse;3;LUTTE OUVRIÈRE - LE CAMP DES TRAVAILLEURS;LUTTE OUVRIÈRE - LE CAMP DES TRAVAILLEURS;LEXG;Liste d'extrême-gauche;OUI;1;F;ADRADA;Malena;Française;;OUI
+31;Haute-Garonne;31555;Toulouse;4;Toulouse pour les jeunes, les travailleurs et les services publics, contre les budgets de guerre;Toulouse pour les jeunes, les travailleurs et les services publics, contre les budgets de guerre;LEXG;Liste d'extrême-gauche;OUI;1;M;MENENDEZ;Julian;Française;;OUI
+31;Haute-Garonne;31555;Toulouse;5;Avec Jean-Luc MOUDENC, Protégeons l'Avenir de Toulouse;Avec Jean-Luc MOUDENC, Protégeons l'Avenir de Toulouse;LDVD;Liste divers droite;OUI;1;M;MOUDENC;Jean-Luc;Française;MAI;OUI
+31;Haute-Garonne;31555;Toulouse;6;Le bon sens toulousain;Le bon sens toulousain;LRN;Liste du Rassemblement National;OUI;1;M;LEONARDELLI;Julien;Française;DEP;OUI
+31;Haute-Garonne;31555;Toulouse;7;A LA RECONQUETE ! DE TOULOUSE;A LA RECONQUETE ! DE TOULOUSE;LREC;Liste Reconquête !;OUI;1;M;COTTREL;Arthur;Française;;OUI
+31;Haute-Garonne;31555;Toulouse;8;Nouvel air;Nouvel air;LDVC;Liste divers centre;OUI;1;M;MEILHAC;Lambert;Française;;OUI
+31;Haute-Garonne;31555;Toulouse;9;Demain Toulouse à gauche et écologiste;Demain Toulouse à gauche et écologiste;LFI;Liste de La France insoumise;OUI;1;M;PIQUEMAL;François;Française;DEP;OUI
+31;Haute-Garonne;31555;Toulouse;10;UNE TRAVAILLEUSE AU CAPITOLE;UNE TRAVAILLEUSE AU CAPITOLE;LEXG;Liste d'extrême-gauche;OUI;1;F;PEDINOTTI;Vanessa;Française;;OUI
+31;Haute-Garonne;31556;Les Tourreilles;1;Ensemble pour notre commune;Ensemble pour notre commune;;;OUI;1;F;MARTY;Cyrielle;Française;;
+31;Haute-Garonne;31557;Tournefeuille;1;Tournefeuille dynamique;Tournefeuille dynamique;LDVC;Liste divers centre;OUI;1;M;PEREZ;Stéphane;Française;;OUI
+31;Haute-Garonne;31557;Tournefeuille;2;Un autre avenir;Un autre avenir;LUC;Liste d'union au centre;OUI;1;M;SOULIÉ;Laurent;Française;;OUI
+31;Haute-Garonne;31557;Tournefeuille;3;Tournefeuille au coeur;Tournefeuille au coeur;LUG;Liste d'union à gauche;OUI;1;M;PARRE;Frédéric;Française;;OUI
+31;Haute-Garonne;31557;Tournefeuille;4;Liste citoyenne de Tournefeuille;Liste citoyenne de Tournefeuille;LDVG;Liste divers gauche;OUI;1;F;DAIGMORTE;Chloe;Française;;OUI
+31;Haute-Garonne;31558;Toutens;1;Tout'Ensemble;Tout'Ensemble;;;OUI;1;M;CAMINADE;Christian;Française;;
+31;Haute-Garonne;31559;Trébons-de-Luchon;1;TREBONS L'AVENIR ENSEMBLE;TREBONS L'AVENIR ENSEMBLE;;;OUI;1;M;CAUSSETTE;Guillaume;Française;;
+31;Haute-Garonne;31560;Trébons-sur-la-Grasse;1;Trébons pour tous;Trébons pour tous;;;OUI;1;M;RAMONDA;Hervé;Française;;
+31;Haute-Garonne;31561;L'Union;1;AIMER L'UNION;AIMER L'UNION;LDVG;Liste divers gauche;OUI;1;M;PÉRÉ;Marc;Française;;OUI
+31;Haute-Garonne;31561;L'Union;2;Pour L'Union;Pour L'Union;LDVD;Liste divers droite;OUI;1;F;GENNARO-SAINT;Christine;Française;;OUI
+31;Haute-Garonne;31562;Urau;1;URAU ENSEMBLE;URAU ENSEMBLE;;;OUI;1;F;BUC;Véronique;Française;;
+31;Haute-Garonne;31563;Vacquiers;1;Agir pour Vacquiers;Agir pour Vacquiers;;;OUI;1;F;CLAVEL;Virginie;Française;;OUI
+31;Haute-Garonne;31564;Valcabrère;1;DEMAIN VALCABRERE;DEMAIN VALCABRERE;;;OUI;1;F;LOUGE;Evelyne;Française;;
+31;Haute-Garonne;31565;Valentine;1;VALENTINE NOTRE VILLAGE;VALENTINE NOTRE VILLAGE;;;OUI;1;F;NADALET;Marie;Française;;
+31;Haute-Garonne;31566;Vallègue;1;Vallègue ensemble;Vallègue ensemble;;;OUI;1;M;ZANATTA;Rémy;Française;;
+31;Haute-Garonne;31567;Vallesvilles;1;VIVRE ET AGIR ENSEMBLE A VALLESVILLES;VIVRE ET AGIR ENSEMBLE A VALLESVILLES;;;OUI;1;M;IZARD;Christian;Française;;
+31;Haute-Garonne;31568;Varennes;1;Bien vivre aux Varennes;Bien vivre aux Varennes;;;OUI;1;F;GOUX;Roselyne;Française;;
+31;Haute-Garonne;31568;Varennes;2;Faisons vivre notre village;Faisons vivre notre village;;;OUI;1;F;MERICQ;Elsa;Française;;
+31;Haute-Garonne;31569;Vaudreuille;1;Vaudreuille un village pour tous;Vaudreuille un village pour tous;;;OUI;1;M;LAGOUTTE;Jean;Française;;
+31;Haute-Garonne;31569;Vaudreuille;2;Agir ensemble pour Vaudreuille;Agir ensemble pour Vaudreuille;;;OUI;1;M;GRATTON;Fabrice;Française;;
+31;Haute-Garonne;31570;Vaux;1;Le Vaux avec vous et pour vous;Le Vaux avec vous et pour vous;;;OUI;1;M;AUBOURG;Patrick;Française;;
+31;Haute-Garonne;31570;Vaux;2;VAUX : gérer notre bien commun;VAUX : gérer notre bien commun;;;OUI;1;M;MORIN;Claude;Française;;
+31;Haute-Garonne;31570;Vaux;3;Osons demain!;Osons demain!;;;OUI;1;M;BONHOMME-PASQUA;Philippe;Française;;
+31;Haute-Garonne;31571;Vendine;1;Vendine ensemble;Vendine ensemble;;;OUI;1;M;SERRE;Benoît;Française;;
+31;Haute-Garonne;31572;Venerque;1;Venerque cap sur l'avenir;Venerque cap sur l'avenir;;;OUI;1;M;BEZIAT;Denis;Française;;OUI
+31;Haute-Garonne;31572;Venerque;2;VENERQUE AUTREMENT;VENERQUE AUTREMENT;;;OUI;1;F;BARRE;Fabienne;Française;;OUI
+31;Haute-Garonne;31573;Verfeil;1;VERFEIL POUR TOUS;VERFEIL POUR TOUS;LDIV;Liste Divers;OUI;1;M;VITORINO;Daniel;Française;;OUI
+31;Haute-Garonne;31573;Verfeil;2;Verfeil dynamique et responsable;Verfeil dynamique et responsable;LDVG;Liste divers gauche;OUI;1;M;PLICQUE;Patrick;Française;;OUI
+31;Haute-Garonne;31573;Verfeil;3;Un nouvel élan pour Verfeil;Un nouvel élan pour Verfeil;LDIV;Liste Divers;OUI;1;M;LAPASSE;Jean-Christophe;Française;;OUI
+31;Haute-Garonne;31574;Vernet;1;agissons ensemble pour le vernet;agissons ensemble pour le vernet;;;OUI;1;F;ROUGANIOU;Marie;Française;;OUI
+31;Haute-Garonne;31574;Vernet;2;LE VERNET, UNIS POUR L'AVENIR;LE VERNET, UNIS POUR L'AVENIR;;;OUI;1;M;MARCHAND;René;Française;;OUI
+31;Haute-Garonne;31575;Vieille-Toulouse;1;Fidèles à Vieille-Toulouse;Fidèles à Vieille-Toulouse;;;OUI;1;M;ROBERT;Gérard;Française;;OUI
+31;Haute-Garonne;31575;Vieille-Toulouse;2;Pour Vieille-Toulouse avec vous;Pour Vieille-Toulouse avec vous;;;OUI;1;F;BOCCACINO;Marianne;Française;;OUI
+31;Haute-Garonne;31576;Vieillevigne;1;BIEN VIVRE A VIEILLEVIGNE;BIEN VIVRE A VIEILLEVIGNE;;;OUI;1;F;DUCHER SOULOUMIAC;Nathalie;Française;;
+31;Haute-Garonne;31577;Vignaux;1;Défence des intêrets communaux;Défence des intêrets communaux;;;OUI;1;M;LECONTE;Roland;Française;;
+31;Haute-Garonne;31578;Vigoulet-Auzil;1;Avenir et environnement;Avenir et environnement;;;OUI;1;M;SEGERIC;Jacques;Française;;OUI
+31;Haute-Garonne;31579;Villariès;1;Ensemble pour Villariès;Ensemble pour Villariès;;;OUI;1;M;ROUMAGNAC;Léandre;Française;;
+31;Haute-Garonne;31580;Villate;1;AGIR ENSEMBLE POUR VILLATE;AGIR ENSEMBLE POUR VILLATE;;;OUI;1;M;GARAUD;Jean-Claude;Française;;OUI
+31;Haute-Garonne;31580;Villate;2;ICI CHACUN COMPTE;ICI CHACUN COMPTE;;;OUI;1;M;WEISS;Alexandre;Française;;OUI
+31;Haute-Garonne;31581;Villaudric;1;Une énergie pour Villaudric;Une énergie pour Villaudric;;;OUI;1;M;PROVENDIER;Philippe;Française;;OUI
+31;Haute-Garonne;31581;Villaudric;2;Villaudric au Coeur;Villaudric au Coeur;;;OUI;1;M;LE CHEVILLER;Nicolas;Française;;OUI
+31;Haute-Garonne;31582;Villefranche-de-Lauragais;1;Ensemble pour Villefranche de Lauragais;Ensemble pour Villefranche de Lauragais;LDVG;Liste divers gauche;OUI;1;F;GRAFEUILLE ROUDET;Valérie;Française;;OUI
+31;Haute-Garonne;31583;Villematier;1;Agir pour Villematier;Agir pour Villematier;;;OUI;1;M;JILIBERT;Jean-Michel;Française;;OUI
+31;Haute-Garonne;31584;Villemur-sur-Tarn;1;ENSEMBLE POUR VILLEMUR;ENSEMBLE POUR VILLEMUR;LDIV;Liste Divers;OUI;1;M;MOULET;Serge;Française;;OUI
+31;Haute-Garonne;31584;Villemur-sur-Tarn;2;Villemur 2026-2033;Villemur 2026-2033;LDVD;Liste divers droite;OUI;1;M;DUMOULIN;Jean-Marc;Française;;OUI
+31;Haute-Garonne;31584;Villemur-sur-Tarn;3;Agir pour Villemur;Agir pour Villemur;LDIV;Liste Divers;OUI;1;M;DE BENEDICTIS;Olivier;Française;;OUI
+31;Haute-Garonne;31585;Villeneuve-de-Rivière;1;ENGAGES POUR VILLENEUVE;ENGAGES POUR VILLENEUVE;;;OUI;1;F;SUBRA;Emilie;Française;;OUI
+31;Haute-Garonne;31586;Villeneuve-Lécussan;1;UN NOUVEL ELAN POUR VILLENEUVE LECUSSAN;UN NOUVEL ELAN POUR VILLENEUVE LECUSSAN;;;OUI;1;F;PUJADE;Valérie;Française;;
+31;Haute-Garonne;31586;Villeneuve-Lécussan;2;S'ENGAGER POUR NOTRE VILLAGE;S'ENGAGER POUR NOTRE VILLAGE;;;OUI;1;M;BATMALE;Lionel;Française;;
+31;Haute-Garonne;31587;Villeneuve-lès-Bouloc;1;Agir Ensemble pour Villeneuve;Agir Ensemble pour Villeneuve;;;OUI;1;M;PATTYN;Thaddée;Française;;OUI
+31;Haute-Garonne;31587;Villeneuve-lès-Bouloc;2;ENTENTE ET INTERÊTS COMMUNAUX;ENTENTE ET INTERÊTS COMMUNAUX;;;OUI;1;F;SAVY;Sylvie;Française;;OUI
+31;Haute-Garonne;31588;Villeneuve-Tolosane;1;Ensemble faisons Villeneuve-Tolosane;Ensemble faisons Villeneuve-Tolosane;LSOC;Liste du Parti socialiste;OUI;1;M;VAILLANT;Romain;Française;;OUI
+31;Haute-Garonne;31589;Villenouvelle;1;Pour une commune durable dynamique et Solidaire;Pour une commune durable dynamique et Solidaire;;;OUI;1;M;PORTIER;Thomas;Française;;OUI
+31;Haute-Garonne;31590;Binos;1;BINOS ENSEMBLE;BINOS ENSEMBLE;;;OUI;1;M;GUAUS;Francis;Française;;
+31;Haute-Garonne;31591;Escoulis;1;ESCOULIS ENSEMBLE;ESCOULIS ENSEMBLE;;;OUI;1;M;SOUMET;Jacques;Française;;
+31;Haute-Garonne;31592;Larra;1;Larra, maintenant, pour demain;Larra, maintenant, pour demain;;;OUI;1;M;MOIGN;Jean-Louis;Française;;OUI
+31;Haute-Garonne;31593;Cazac;1;VIVRE A CAZAC;VIVRE A CAZAC;;;OUI;1;F;PRIAULT;Françoise;Française;;
